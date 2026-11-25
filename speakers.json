@@ -1,6 +1,6 @@
 {
   "source": "https://joinfost.io/events/paris#agenda",
-  "extracted_at": "2026-11-24T16:15:25+01:00",
+  "extracted_at": "2026-11-25T16:22:30+01:00",
   "timezone": "Europe/Paris",
   "speakers": [
     {
@@ -40,6 +40,14 @@
       ]
     },
     {
+      "name": "Abdoulaye Doucoure",
+      "jobtitle": "Data Scientist",
+      "company": "Physical AI Hackathon",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6858/conversions/3ab18bcb-be58-442d-b499-29985868c774-square.jpg",
+      "sessions": []
+    },
+    {
       "name": "Abhijit Dey",
       "jobtitle": "Sr.Director FS Advisory",
       "company": "PWC",
@@ -72,6 +80,21 @@
           "date": "2026-12-03",
           "start": "12:40",
           "end": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Adil Barakate",
+      "jobtitle": "Head of Data management & IA",
+      "company": "Global Financial Services (BPCE)",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6862/conversions/e93bbed4-511b-4ebb-a155-a6f324971d96-square.jpg",
+      "sessions": [
+        {
+          "title": "Accès, stockage, partage : comment les CDO doivent répondre aux exigences réglementaires et de conformité sans freiner les usages ?",
+          "date": "2026-12-01",
+          "start": "14:00",
+          "end": "14:40"
         }
       ]
     },
@@ -274,10 +297,10 @@
     },
     {
       "name": "Alek Tarkowski",
-      "jobtitle": "Strategy Director",
+      "jobtitle": "Director of Strategy",
       "company": "Open Future",
-      "bio": "",
-      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6122/conversions/1db1a3a4-be5a-44b5-bb5a-4919eb064462-square.jpg",
+      "bio": "Alek Tarkowski is co-founder and Director of Strategy at Open Future, a think tank working on the digital commons. His expertise covers policy and legal aspects related to open source AI and data governance for AI. He is a proponent of building European data commons and using open source AI to develop public AI infrastructure. He co-authored the white paper on European public AI policies, and focuses his work on ways in which openness and commons-based approaches can make AI development serve the public interest.",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6859/conversions/1db1a3a4-be5a-44b5-bb5a-4919eb064462-square.jpg",
       "sessions": [
         {
           "title": "Defending the commons is not enough: new strategies for AI knowledge loops",
@@ -286,7 +309,7 @@
           "end": "14:20"
         },
         {
-          "title": "TBA",
+          "title": "Building public AI on open source: a shared policy agenda for European AI builders",
           "date": "2026-12-02",
           "start": "15:30",
           "end": "15:55"
@@ -377,6 +400,21 @@
           "date": "2026-12-03",
           "start": "11:30",
           "end": "11:55"
+        }
+      ]
+    },
+    {
+      "name": "Alexandre Bergere",
+      "jobtitle": "CEO & co-founder",
+      "company": "Kaiten",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6850/conversions/4485a00a-d219-4e01-908c-b3a15da82609-square.jpg",
+      "sessions": [
+        {
+          "title": "Who Decides What Goes on the Invoice? Billing an API From Its Contract",
+          "date": "2026-12-03",
+          "start": "14:30",
+          "end": "14:55"
         }
       ]
     },
@@ -642,7 +680,7 @@
     },
     {
       "name": "Ana Roseira",
-      "jobtitle": "Partnership",
+      "jobtitle": "Partnerships",
       "company": "Women in AI",
       "bio": "",
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6848/conversions/6d324a62-16ef-4473-9546-283a79c369e4-square.jpg",
@@ -1078,12 +1116,6 @@
           "date": "2026-12-01",
           "start": "12:30",
           "end": "12:55"
-        },
-        {
-          "title": "Agentic AI Is Inevitable. How Do You Govern It Safely Without Losing Control of Costs?",
-          "date": "2026-12-02",
-          "start": "11:50",
-          "end": "12:15"
         }
       ]
     },
@@ -1488,21 +1520,6 @@
       ]
     },
     {
-      "name": "Barbara Delacroix",
-      "jobtitle": "CEO and Co-founder",
-      "company": "Devana",
-      "bio": "CEO and co-founder of Devana, a French company building sovereign, human-centred AI for critical European environments. Devana orchestrates AI models into a co-pilot for knowledge work, designed to comply with EU regulation.",
-      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6458/conversions/10812add-c15c-4fd6-a8ed-246117839c8d-square.jpg",
-      "sessions": [
-        {
-          "title": "Local inferences, local building",
-          "date": "2026-12-02",
-          "start": "15:35",
-          "end": "15:55"
-        }
-      ]
-    },
-    {
       "name": "Bart Dubbeldam",
       "jobtitle": "Founding Engineer",
       "company": "Cached Intelligence",
@@ -1760,6 +1777,21 @@
           "date": "2026-12-03",
           "start": "12:00",
           "end": "12:25"
+        }
+      ]
+    },
+    {
+      "name": "Bertrand Billoud",
+      "jobtitle": "Responsable plateformes open data et API",
+      "company": "SNCF",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6873/conversions/5ef63259-4298-416c-a56d-c00d24c1a51d-square.jpg",
+      "sessions": [
+        {
+          "title": "Table ronde « Et si la prochaine coupure touchait la géostack ? »",
+          "date": "2026-12-03",
+          "start": "14:10",
+          "end": "15:05"
         }
       ]
     },
@@ -2029,16 +2061,16 @@
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6461/conversions/c7e35dc3-1e21-49f0-9431-05cec01bdfb9-square.jpg",
       "sessions": [
         {
+          "title": "Opening DRE et BIS",
+          "date": "2026-12-02",
+          "start": "09:15",
+          "end": "09:20"
+        },
+        {
           "title": "Opening Session",
           "date": "2026-12-02",
           "start": "09:15",
           "end": "09:30"
-        },
-        {
-          "title": "Opening DRE et BIS",
-          "date": "2026-12-02",
-          "start": "09:15",
-          "end": "09:40"
         },
         {
           "title": "Building with agents, building agents",
@@ -2143,7 +2175,7 @@
           "end": "11:15"
         },
         {
-          "title": "Quand la carte s'arrête",
+          "title": "Table ronde « Et si la prochaine coupure touchait la géostack ? »",
           "date": "2026-12-03",
           "start": "14:10",
           "end": "15:05"
@@ -2207,6 +2239,21 @@
           "date": "2026-12-03",
           "start": "12:30",
           "end": "12:55"
+        }
+      ]
+    },
+    {
+      "name": "Chris Mazur",
+      "jobtitle": "Ambassador",
+      "company": "Cloud Native Computing Foundation",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/4371/conversions/bc1ce5c4-d2cf-4226-a431-bff0b1132565-square.jpg",
+      "sessions": [
+        {
+          "title": "Welcoming address",
+          "date": "2026-12-02",
+          "start": "11:15",
+          "end": "11:20"
         }
       ]
     },
@@ -2344,9 +2391,9 @@
         },
         {
           "title": "The Business of AI: Scaling Agents, Tokenomics, and Trust",
-          "date": "2026-12-03",
-          "start": "12:00",
-          "end": "12:25"
+          "date": "2026-12-02",
+          "start": "14:00",
+          "end": "14:25"
         }
       ]
     },
@@ -2498,6 +2545,21 @@
           "date": "2026-12-02",
           "start": "14:00",
           "end": "14:40"
+        }
+      ]
+    },
+    {
+      "name": "Constance Nebbula",
+      "jobtitle": "Viceprésidente de la Région Pays de la Loire - Présidente d’Open Data France",
+      "company": "",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6871/conversions/91573ecc-2404-42db-8e7c-08a2b741efa4-square.jpg",
+      "sessions": [
+        {
+          "title": "Table ronde « Et si la prochaine coupure touchait la géostack ? »",
+          "date": "2026-12-03",
+          "start": "14:10",
+          "end": "15:05"
         }
       ]
     },
@@ -3106,12 +3168,6 @@
           "end": "15:55"
         },
         {
-          "title": "Your Domain Model Is Your API Spec - and Your First Prompt",
-          "date": "2026-12-03",
-          "start": "11:00",
-          "end": "11:25"
-        },
-        {
           "title": "Your Domain Model Is Your API Spec — and Your First Prompt",
           "date": "2026-12-03",
           "start": "11:00",
@@ -3181,10 +3237,10 @@
     },
     {
       "name": "Elena Guz",
-      "jobtitle": "Financial Risk Manager",
-      "company": "Morgan Stanley",
+      "jobtitle": "AI Governance and Risk Transformation Advisor",
+      "company": "Independent",
       "bio": "Elena Guz is a financial services executive specializing in AI governance, enterprise transformation, and risk management. A former Executive Director at Morgan Stanley, she led major regulatory transformation programs, headed a Capital Management Oversight function, and built organizations spanning Front Office, Risk, Finance, Technology, and Regulatory Compliance. She previously held leadership roles at AIG and EY. Elena independently developed an AI Agent & Orchestration Governance Framework addressing decision authority, accountability, and human oversight in multi-agent environments. She also develops practical AI applications and contributes to FINOS initiatives. She holds FRM and Certified in Blockchain and Digital Assets (CBDA) credentials, and completed three CFA examination levels.",
-      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6754/conversions/d2ecaf5f-bb6d-4d28-a12b-9570c4166c44-square.jpg",
+      "avatar": "https://secure.gravatar.com/avatar/a597cf448be530c212f6aee181486ffc5b6adbae4b05969ff77a09485f5ee339.jpg?s=120&d=mp&r=g",
       "sessions": [
         {
           "title": "AI governance in financial services",
@@ -3929,6 +3985,21 @@
       ]
     },
     {
+      "name": "Franck Ella",
+      "jobtitle": "Head of Data & AI Technology, Group Data Office",
+      "company": "Transdev",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6863/conversions/11e106f3-39d2-48dc-a6b2-248d44326774-square.jpg",
+      "sessions": [
+        {
+          "title": "Accès, stockage, partage : comment les CDO doivent répondre aux exigences réglementaires et de conformité sans freiner les usages ?",
+          "date": "2026-12-01",
+          "start": "14:00",
+          "end": "14:40"
+        }
+      ]
+    },
+    {
       "name": "Frank Kilcommins",
       "jobtitle": "Head of Enterprise Architecture",
       "company": "Jentic",
@@ -4095,6 +4166,21 @@
           "date": "2026-12-03",
           "start": "09:30",
           "end": "11:15"
+        }
+      ]
+    },
+    {
+      "name": "Frédéric Jacon",
+      "jobtitle": "Chef du département géospatial",
+      "company": "CampToCamp",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6875/conversions/d0cc2b23-aa83-488c-a147-c876ee164ee2-square.jpg",
+      "sessions": [
+        {
+          "title": "Les verrous à lever : où porter l’effort collectif ? Premier retour d’expérience",
+          "date": "2026-12-03",
+          "start": "15:05",
+          "end": "15:30"
         }
       ]
     },
@@ -4822,7 +4908,7 @@
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6640/conversions/e2176d0e-0d81-4375-aa36-d195efc98be5-square.jpg",
       "sessions": [
         {
-          "title": "TBA",
+          "title": "L'accélération et l'industrialisation des cyber attaques autonomes par IA",
           "date": "2026-12-02",
           "start": "10:30",
           "end": "10:55"
@@ -4950,8 +5036,8 @@
         {
           "title": "Your APIs Are Ready. But Are They AI-Ready? From API Sprawl to AI-Ready Governance - A Live Journey with Solis Hub",
           "date": "2026-12-01",
-          "start": "15:00",
-          "end": "15:25"
+          "start": "14:00",
+          "end": "14:55"
         },
         {
           "title": "When AI Agents Meet Your API Gateway",
@@ -5114,21 +5200,6 @@
           "date": "2026-12-03",
           "start": "14:00",
           "end": "14:25"
-        }
-      ]
-    },
-    {
-      "name": "James Gough",
-      "jobtitle": "Distinguished Engineer",
-      "company": "Morgan Stanley",
-      "bio": "Distinguished Engineer at Morgan Stanley. Co-Author of Optimizing Java and Mastering API Architecture, published by O’Reilly.With a focus on Software quality, I care about the standard of the software I deliver as well as the end result for the business. I enjoy working in a team to deliver the best product possible and enjoy working with others to improve coding techniques and technical skills.I enjoy teaching and mentoring as much as writing the code itself and I am an accomplished technical trainer and author. Although my passion is for Java, I am not tied to the language or tool chain and I am always willing to discuss and select the right tools for the job. My style of teaching is interactive and I expect to be challenged, and meet this challenge with reasoning and investigation during live sessions.",
-      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/2201/conversions/6d4f5dcd-52e6-41f8-8862-7ca096bb6b47-square.jpg",
-      "sessions": [
-        {
-          "title": "Defining controls and policies with CALM",
-          "date": "2026-12-03",
-          "start": "14:40",
-          "end": "15:20"
         }
       ]
     },
@@ -5347,16 +5418,16 @@
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/2900/conversions/bd1b2bcf-c383-4afd-b629-98d31850c864-square.jpg",
       "sessions": [
         {
-          "title": "AI Edge for the AI Age: Streaming Data for Robots and Drones",
-          "date": "2026-12-01",
-          "start": "11:30",
-          "end": "11:55"
-        },
-        {
           "title": "Secure Low-Latency Video & C2",
           "date": "2026-12-01",
           "start": "15:20",
           "end": "15:40"
+        },
+        {
+          "title": "AI Edge for the AI Age: Streaming Data for Robots and Drones",
+          "date": "2026-12-01",
+          "start": "15:30",
+          "end": "15:55"
         }
       ]
     },
@@ -5579,6 +5650,14 @@
       ]
     },
     {
+      "name": "Johny Thoumaked",
+      "jobtitle": "Tech Lead",
+      "company": "Malakoff Humanis",
+      "bio": "Johny Thoumaked is a Tech Lead with Malakoff specializing in CIAM (Customer Identity and Access Management), MOM (Message-Oriented Middleware), and API Management. He designs and oversees secure, scalable architectures that enable seamless integration between  applications and services. With a strong focus on reliability, performance, and security, he supports teams in implementing best practices and delivering robust digital platforms.",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6866/conversions/4ad43789-62f2-462e-a086-20492eb2bf16-square.jpg",
+      "sessions": []
+    },
+    {
       "name": "Jon Scheele",
       "jobtitle": "Founder & Principal Consultant",
       "company": "Blue Connector",
@@ -5616,6 +5695,12 @@
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6521/conversions/4cd7fe2b-788c-4214-8ff4-a56e96e8c5e2-square.jpg",
       "sessions": [
         {
+          "title": "MCP: Where Agents Meet Enterprise Governance",
+          "date": "2026-12-01",
+          "start": "12:30",
+          "end": "12:55"
+        },
+        {
           "title": "Agentic AI Is Inevitable. How Do You Govern It Safely Without Losing Control of Costs?",
           "date": "2026-12-02",
           "start": "11:50",
@@ -5645,12 +5730,6 @@
       "bio": "José Carlos Chávez is a Security Software Engineer at Okta and an OWASP Coraza co-leader. He enjoys working in Security, building AI (sustainable) automations, designing APIs and building distributed systems. While not working with code, you can find him sipping on kombuchas or enjoying his children.",
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6611/conversions/8f9e33be-8b78-4747-94a6-6b190d9d3fc3-square.jpg",
       "sessions": [
-        {
-          "title": "MCP: Where Agents Meet Enterprise Governance",
-          "date": "2026-12-01",
-          "start": "12:30",
-          "end": "12:55"
-        },
         {
           "title": "Vulnerability Remediation: tackling on all fronts",
           "date": "2026-12-03",
@@ -6031,7 +6110,7 @@
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6827/conversions/dc290bf9-7c78-4d42-9510-db88cf612299-square.jpg",
       "sessions": [
         {
-          "title": "AI Agents, Healthcare, and Data Anonymization",
+          "title": "Your Business Runs on Documents AI Isn’t Allowed to Read. Unlock Them in 3 Steps.",
           "date": "2026-12-01",
           "start": "16:30",
           "end": "16:55"
@@ -6185,9 +6264,9 @@
         },
         {
           "title": "The Business of AI: Scaling Agents, Tokenomics, and Trust",
-          "date": "2026-12-03",
-          "start": "12:00",
-          "end": "12:25"
+          "date": "2026-12-02",
+          "start": "14:00",
+          "end": "14:25"
         }
       ]
     },
@@ -6378,7 +6457,7 @@
       "name": "Laetitia Vasseur",
       "jobtitle": "Déléguée Générale",
       "company": "Halte à l'Obsolescence Programmée",
-      "bio": "Laëtitia Vasseur is co-founder and Executive Director of HOP, a French NGO fighting planned obsolescence. She also founded the Club de la Durabilité, a business network, and the International Durability Alliance to promote longer-lasting products",
+      "bio": "Laëtitia Vasseur is co-founder and Executive Director of HOP, a French NGO fighting planned obsolescence. She also founded the Club de la Durabilité, a business network, and the International Durability Alliance to promote longer-lasting products.",
       "avatar": "https://secure.gravatar.com/avatar/7970ea6dea1fb1141c09724541e2d2a5bebb14fb5a38d3c9069b3e91e3d81fb3.jpg?s=120&d=mp&r=g",
       "sessions": [
         {
@@ -6480,6 +6559,21 @@
       ]
     },
     {
+      "name": "Laurence Houdeville",
+      "jobtitle": "ex. MINISTERE DE l'INTERIEUR",
+      "company": "",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6861/conversions/eea265d0-4fd6-4acc-9c67-c0b0eb54c1f9-square.jpg",
+      "sessions": [
+        {
+          "title": "Accès, stockage, partage : comment les CDO doivent répondre aux exigences réglementaires et de conformité sans freiner les usages ?",
+          "date": "2026-12-01",
+          "start": "14:00",
+          "end": "14:40"
+        }
+      ]
+    },
+    {
       "name": "Laurent Broudoux",
       "jobtitle": "Co-founder",
       "company": "Microcks & Reshapr",
@@ -6505,7 +6599,7 @@
       "jobtitle": "Green IT Manager",
       "company": "Worldline",
       "bio": "Sustainability advocate at Worldline, driving eco-design for digital services to cut environmental impact.",
-      "avatar": "https://secure.gravatar.com/avatar/ef68099b6739b85aa858c77fd16f0c5547ec0679c46462e9dc274f936e215417.jpg?s=120&d=mp&r=g",
+      "avatar": "https://secure.gravatar.com/avatar/0ac4e16c52665b6c2f9facb69f63fc1f27f7a89aedf8f728dff3fcf95696c475.jpg?s=120&d=mp&r=g",
       "sessions": [
         {
           "title": "Building the essential, efficiently: Eco-Design redefines our Digital Services",
@@ -6565,6 +6659,21 @@
           "date": "2026-12-03",
           "start": "11:30",
           "end": "11:55"
+        }
+      ]
+    },
+    {
+      "name": "Laurent Marchal",
+      "jobtitle": "Principal Pre Sales Architect",
+      "company": "Axway",
+      "bio": "Experienced Information Technology System Architect with a demonstrated history of working in the banking industry. Strong engineering professional skilled in WebSphere MQ, ITIL, Application Programming Interfaces, Middleware, and ESB.",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/2538/conversions/722539a4-188d-4830-8e59-19f73f375085-square.jpg",
+      "sessions": [
+        {
+          "title": "Agentic AI Is Inevitable. How Do You Govern It Safely Without Losing Control of Costs?",
+          "date": "2026-12-02",
+          "start": "11:50",
+          "end": "12:15"
         }
       ]
     },
@@ -6764,6 +6873,14 @@
       ]
     },
     {
+      "name": "Loic Moisand",
+      "jobtitle": "CEO",
+      "company": "Ockhame",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6878/conversions/b154b6a9-2286-4d81-bdf4-fd905fd753e0-square.jpg",
+      "sessions": []
+    },
+    {
       "name": "Loubna Ben Allal",
       "jobtitle": "Research Lead",
       "company": "HuggingFace",
@@ -6909,6 +7026,21 @@
           "date": "2026-12-02",
           "start": "14:30",
           "end": "14:55"
+        }
+      ]
+    },
+    {
+      "name": "Lucian Balea",
+      "jobtitle": "Directeur adjoint R&D et Directeur Open Source",
+      "company": "RTE",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6872/conversions/f81052f9-6e50-4295-8957-4994b2674256-square.jpg",
+      "sessions": [
+        {
+          "title": "Table ronde « Et si la prochaine coupure touchait la géostack ? »",
+          "date": "2026-12-03",
+          "start": "14:10",
+          "end": "15:05"
         }
       ]
     },
@@ -7347,8 +7479,23 @@
       ]
     },
     {
-      "name": "Marvin Wissfeld",
-      "jobtitle": "Software engineer",
+      "name": "Martina Barbero",
+      "jobtitle": "Policy Officer",
+      "company": "DG Connect European Commission",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6868/conversions/be81d4d2-ac2d-45d8-a3f8-ed1c5def08ec-square.jpg",
+      "sessions": [
+        {
+          "title": "European Commission’s vision for Open Source and Tech Sovereignty",
+          "date": "2026-12-02",
+          "start": "15:00",
+          "end": "15:10"
+        }
+      ]
+    },
+    {
+      "name": "Marvin Wißfeld",
+      "jobtitle": "Software Engineer",
       "company": "microG",
       "bio": "",
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6400/conversions/2c687529-2e67-40b5-a07e-fdd3f62490cc-square.jpg",
@@ -7626,16 +7773,22 @@
           "end": "09:00"
         },
         {
+          "title": "Opening DRE et BIS",
+          "date": "2026-12-02",
+          "start": "09:15",
+          "end": "09:20"
+        },
+        {
           "title": "Welcome and Opening Remarks",
           "date": "2026-12-02",
           "start": "09:15",
           "end": "09:30"
         },
         {
-          "title": "Opening DRE et BIS",
+          "title": "Welcoming address",
           "date": "2026-12-02",
-          "start": "09:15",
-          "end": "09:40"
+          "start": "11:15",
+          "end": "11:20"
         }
       ]
     },
@@ -7762,8 +7915,8 @@
         {
           "title": "Twake.ai: When the Sovereign Digital Workspace Becomes Agentic",
           "date": "2026-12-01",
-          "start": "16:30",
-          "end": "17:25"
+          "start": "15:00",
+          "end": "15:55"
         },
         {
           "title": "Opening Remarks",
@@ -8137,16 +8290,16 @@
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/3138/conversions/f2e857dd-8151-42e3-b594-8740478f7762-square.jpg",
       "sessions": [
         {
-          "title": "Can Harness Engineering make Smaller AI Models Viable?",
-          "date": "2026-12-02",
-          "start": "14:00",
-          "end": "14:25"
-        },
-        {
           "title": "Beyond REST: Evolving Arazzo for Real-World Agentic Workflows",
           "date": "2026-12-03",
           "start": "09:45",
           "end": "10:10"
+        },
+        {
+          "title": "Can Harness Engineering make Smaller AI Models Viable?",
+          "date": "2026-12-03",
+          "start": "12:00",
+          "end": "12:25"
         },
         {
           "title": "AsyncAPI Ambassador Panel - Can AsyncAPI help AI Agents Speak Event-Driven?",
@@ -8451,14 +8604,14 @@
         {
           "title": "SuperStack Coalition: gathering forces towards sovereignty and scale",
           "date": "2026-12-02",
-          "start": "15:00",
+          "start": "15:10",
           "end": "15:25"
         },
         {
           "title": "ELFA: working on a local-first end-to-end encrypted office workspace",
           "date": "2026-12-03",
-          "start": "12:15",
-          "end": "12:25"
+          "start": "12:25",
+          "end": "12:30"
         },
         {
           "title": "Sovereign Local-First E2EE solutions: ELFA workspace & NextGraph SDK",
@@ -8625,6 +8778,21 @@
       ]
     },
     {
+      "name": "Olivier Poupeney",
+      "jobtitle": "Field CTO Linux Foundation",
+      "company": "FINOS",
+      "bio": "As Field CTO based out of New York, Olivier acts as a trusted technical advisor for FINOS’ open source projects. In this role, he supports project maintainers in driving contributions, advancing project evolution, and promoting initiatives at developer-focused and industry-centric events.\nPrior to FINOS, Olivier led Developer Relations at Orkes, fostering engagement within the Netflix Conductor developer community and regularly speaking at developer conferences.\nBefore joining Orkes, Olivier was Director of Developer Ecosystem at Symphony, where he built Symphony’s open source strategy and managed its related developer tooling contributions to FINOS such as Bot Developer Kit (BDK).\nEarlier in his career, Olivier created and led engineering for two developer centric platforms until their respective acquisitions. He is also the co-author of a patented method of creating customizable applications.",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/3339/conversions/cff5a5e1-68da-4636-9bfb-03d2666d3060-square.jpg",
+      "sessions": [
+        {
+          "title": "AI Governance as Code",
+          "date": "2026-12-03",
+          "start": "14:40",
+          "end": "15:20"
+        }
+      ]
+    },
+    {
       "name": "Olivier Rohou",
       "jobtitle": "CEO",
       "company": "EU-Score.tech",
@@ -8670,7 +8838,7 @@
       ]
     },
     {
-      "name": "Paloma Oliviera",
+      "name": "Paloma Oliveira",
       "jobtitle": "Technologist",
       "company": "Sovereign Tech Agency",
       "bio": "",
@@ -9337,6 +9505,21 @@
       ]
     },
     {
+      "name": "Ragnar Bergstrom",
+      "jobtitle": "Team Leader, Future Internet Unit",
+      "company": "European Commission",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6869/conversions/64f18b83-5f67-4c8e-b23e-e412fe1e138f-square.jpg",
+      "sessions": [
+        {
+          "title": "EU Open Source Strategy: key role of the Open Internet Stack",
+          "date": "2026-12-03",
+          "start": "12:15",
+          "end": "12:25"
+        }
+      ]
+    },
+    {
       "name": "Rainer Scheibehenne",
       "jobtitle": "Enterprise Architect",
       "company": "ITM GmbH",
@@ -9627,14 +9810,6 @@
       ]
     },
     {
-      "name": "Romain Dillet",
-      "jobtitle": "VC",
-      "company": "Drysdale Ventures",
-      "bio": "",
-      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/4667/conversions/d1ddb836-eb9f-4be7-8d99-2db73aab47d5-square.jpg",
-      "sessions": []
-    },
-    {
       "name": "Romain Jacob",
       "jobtitle": "Senior Researcher",
       "company": "ETH Zurich",
@@ -9800,6 +9975,21 @@
       ]
     },
     {
+      "name": "Ryan Lahfa",
+      "jobtitle": "Senior principal engineer",
+      "company": "Omnicité",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6870/conversions/7d0199c3-828e-4888-9d1a-24ce855ad69c-square.jpg",
+      "sessions": [
+        {
+          "title": "From Windows to a desktop you own",
+          "date": "2026-12-02",
+          "start": "14:00",
+          "end": "14:25"
+        }
+      ]
+    },
+    {
       "name": "Saad Amal",
       "jobtitle": "Software Engineer",
       "company": "ADEO",
@@ -9907,8 +10097,8 @@
     {
       "name": "Samir Akarioh",
       "jobtitle": "Developer Advocate",
-      "company": "Gatling",
-      "bio": "I'm Samir Akarioh DevRel at Gatling, and I worked at Qdrant and Canonical. I'm passionate about testing and devops ( container, docker,....) Also fun fact, I already played with FairyPeak a former pro and coach on Rocket League.",
+      "company": "Scalingo",
+      "bio": "Samir Akarioh is a DevRel at Scalingo. Passionate about cloud, DevOps and generative AI, he focuses on the challenges of moving from prototype to production. Through his talks, he shares a pragmatic take on technology, with a particular interest in automation, security and system reliability.",
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/3038/conversions/fd173058-00e7-4765-85ca-b7ff195bb6de-square.jpg",
       "sessions": [
         {
@@ -10390,10 +10580,10 @@
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6297/conversions/c394e217-72b8-4b12-a092-bf453ad9760e-square.jpg",
       "sessions": [
         {
-          "title": "TBA",
+          "title": "The end of the fog of AI: And the opportunity to reinvent the productivity suite in a post-agentic era",
           "date": "2026-12-01",
-          "start": "15:30",
-          "end": "15:55"
+          "start": "11:30",
+          "end": "11:55"
         }
       ]
     },
@@ -10561,7 +10751,7 @@
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6193/conversions/7d7eb988-2452-4739-b74e-66a42acc2cee-square.jpg",
       "sessions": [
         {
-          "title": "TBA",
+          "title": "GENCI a public HPC/AI/QC infrastructure serving science and innovation in Europe",
           "date": "2026-12-02",
           "start": "11:50",
           "end": "12:15"
@@ -10723,7 +10913,7 @@
           "end": "09:40"
         },
         {
-          "title": "Ouverture",
+          "title": "Ouverture, dans la suite de l’Appel de Tours",
           "date": "2026-12-03",
           "start": "14:00",
           "end": "14:10"
@@ -10751,7 +10941,14 @@
       "company": "Cybenetica.fr",
       "bio": "",
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/1701/conversions/3ca7d1f5-6749-451c-82f1-13a50912b2fa-square.jpg",
-      "sessions": []
+      "sessions": [
+        {
+          "title": "TBA",
+          "date": "2026-12-02",
+          "start": "09:20",
+          "end": "09:45"
+        }
+      ]
     },
     {
       "name": "Thibaud Guilpain",
@@ -11088,7 +11285,14 @@
       "company": "Current AI",
       "bio": "",
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6793/conversions/9aa2caae-6d79-4894-9932-baafd1e4e524-square.jpg",
-      "sessions": []
+      "sessions": [
+        {
+          "title": "AI Potluck Demo by Current AI",
+          "date": "2026-12-02",
+          "start": "12:45",
+          "end": "12:50"
+        }
+      ]
     },
     {
       "name": "Tim Chang",
@@ -11162,6 +11366,21 @@
           "date": "2026-12-03",
           "start": "09:30",
           "end": "10:05"
+        }
+      ]
+    },
+    {
+      "name": "Tom Lucas",
+      "jobtitle": "XAI Phd Student",
+      "company": "Devana",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6867/conversions/626fa31e-1070-490b-9c75-9c13d64cd4b1-square.jpg",
+      "sessions": [
+        {
+          "title": "Debunking misconceptions about local AI: what you can actually build locally vs. the “fast-food model” race",
+          "date": "2026-12-02",
+          "start": "15:35",
+          "end": "15:55"
         }
       ]
     },
@@ -11285,7 +11504,7 @@
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6826/conversions/980696c3-d011-4418-8374-d107a139ada7-square.jpg",
       "sessions": [
         {
-          "title": "AI Agents, Healthcare, and Data Anonymization",
+          "title": "Your Business Runs on Documents AI Isn’t Allowed to Read. Unlock Them in 3 Steps.",
           "date": "2026-12-01",
           "start": "16:30",
           "end": "16:55"
@@ -11391,6 +11610,21 @@
           "date": "2026-12-02",
           "start": "15:00",
           "end": "15:25"
+        }
+      ]
+    },
+    {
+      "name": "Vincent Picavet",
+      "jobtitle": "Président",
+      "company": "Oslandia",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6876/conversions/84480c5b-001e-431a-b204-0b2d596bc04d-square.jpg",
+      "sessions": [
+        {
+          "title": "Les verrous à lever : où porter l’effort collectif ? Premier retour d’expérience",
+          "date": "2026-12-03",
+          "start": "15:05",
+          "end": "15:30"
         }
       ]
     },
@@ -11510,6 +11744,21 @@
           "date": "2026-12-03",
           "start": "11:00",
           "end": "11:25"
+        }
+      ]
+    },
+    {
+      "name": "Walid Erray",
+      "jobtitle": "Head of AI Innovation",
+      "company": "CREDIT AGRICOLE",
+      "bio": "",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6860/conversions/3671cb5e-a049-4a67-b7e7-16c5546d7006-square.jpg",
+      "sessions": [
+        {
+          "title": "5 CDO Pitchs",
+          "date": "2026-12-01",
+          "start": "10:10",
+          "end": "10:40"
         }
       ]
     },
@@ -11853,8 +12102,8 @@
         {
           "title": "Your APIs Are Ready. But Are They AI-Ready? From API Sprawl to AI-Ready Governance - A Live Journey with Solis Hub",
           "date": "2026-12-01",
-          "start": "15:00",
-          "end": "15:25"
+          "start": "14:00",
+          "end": "14:55"
         },
         {
           "title": "Securing and Industrializing AI Adoption at Scale",

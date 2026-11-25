@@ -1,5 +1,7 @@
 # FOST Paris 2026: Speakers
 
+> Last update: 2026-11-25T16:22:30+01:00
+
 All times are local Paris time.
 
 ### Aaron Parecki
@@ -22,6 +24,11 @@ Aaron Parecki is a Senior Security Architect at Okta. He is the author of OAuth 
 AI Engineer (EPITA, 2025) — specialized in Computer Vision, NLP, and Generative AI. Experienced in designing and deploying end-to-end AI solutions, optimized for GPU (CUDA) and cloud (AWS, Azure) environments.
 Recent focus — Agentic AI & RAG on AWS: Currently building production-grade agentic systems on AWS Bedrock
 
+### Abdoulaye Doucoure
+
+- Job title: Data Scientist
+- Company: Physical AI Hackathon
+
 ### Abhijit Dey
 
 - Job title: Sr.Director FS Advisory
@@ -40,6 +47,13 @@ Abhijit is an accomplished Product Evangelist with a rich background in the BFSI
   - The No Exit Dilemma: No Tech Fix Is Enough, No Bystanders (3 December 2026, 12:40–13:00)
 
 Adel Noureddine is a full professor of computer science at University Paris Nanterre and LIP6 laboratory, and is an expert in sustainability, green IT, software engineering and autonomic computing.
+
+### Adil Barakate
+
+- Job title: Head of Data management & IA
+- Company: Global Financial Services (BPCE)
+- Sessions:
+  - Accès, stockage, partage : comment les CDO doivent répondre aux exigences réglementaires et de conformité sans freiner les usages ? (1 December 2026, 14:00–14:40)
 
 ### Adrien Benamira Carrie
 
@@ -132,11 +146,13 @@ Alongside engineering, she co-leads Capgemini's Essential Skills Mentorship Prog
 
 ### Alek Tarkowski
 
-- Job title: Strategy Director
+- Job title: Director of Strategy
 - Company: Open Future
 - Sessions:
   - Defending the commons is not enough: new strategies for AI knowledge loops (1 December 2026, 14:00–14:20)
-  - TBA (2 December 2026, 15:30–15:55)
+  - Building public AI on open source: a shared policy agenda for European AI builders (2 December 2026, 15:30–15:55)
+
+Alek Tarkowski is co-founder and Director of Strategy at Open Future, a think tank working on the digital commons. His expertise covers policy and legal aspects related to open source AI and data governance for AI. He is a proponent of building European data commons and using open source AI to develop public AI infrastructure. He co-authored the white paper on European public AI policies, and focuses his work on ways in which openness and commons-based approaches can make AI development serve the public interest.
 
 ### Alena Bruchon
 
@@ -178,6 +194,13 @@ Community leader and CNCF ambassador, Alessandro has spent the last few years bu
 - Company: Föderale IT-Kooperation (FITKO)
 - Sessions:
   - Register Once, Integrate Everywhere: FAPI 2.0 and a Federated Authorization Foundation for Public-Sector APIs (3 December 2026, 11:30–11:55)
+
+### Alexandre Bergere
+
+- Job title: CEO & co-founder
+- Company: Kaiten
+- Sessions:
+  - Who Decides What Goes on the Invoice? Billing an API From Its Contract (3 December 2026, 14:30–14:55)
 
 ### Alexandre Calvez
 
@@ -316,7 +339,7 @@ Ana is a senior architect at Red Hat OpenShift AI product organization, focusing
 
 ### Ana Roseira
 
-- Job title: Partnership
+- Job title: Partnerships
 - Company: Women in AI
 
 ### Analivia Brouwer
@@ -551,7 +574,6 @@ When he's not coding or on stage, you'll find him trail running through the fore
 - Sessions:
   - Make Agentic AI Enterprise-Ready: Secure, Govern, and Observe Every Interaction (1 December 2026, 11:00–11:55)
   - MCP: Where Agents Meet Enterprise Governance (1 December 2026, 12:30–12:55)
-  - Agentic AI Is Inevitable. How Do You Govern It Safely Without Losing Control of Costs? (2 December 2026, 11:50–12:15)
 
 I am a Principal Product Manager at Axway with more than 12 years of experience helping enterprises unlock value from APIs, integration platforms, Open Banking and digital ecosystems.
 My career spans Support, Managed Cloud, Professional Services, Solution Architecture and Product Management, giving me a unique perspective on how ideas move from strategy to successful customer adoption.
@@ -776,15 +798,6 @@ Head of Engineering for AI Core at Back Market (B Corp). Builds production AI an
 - Sessions:
   - Your AI Agent Is Only as Good as Its Schema: Designing Reliable MCP Tools with JSON Schema (3 December 2026, 14:00–14:25)
 
-### Barbara Delacroix
-
-- Job title: CEO and Co-founder
-- Company: Devana
-- Sessions:
-  - Local inferences, local building (2 December 2026, 15:35–15:55)
-
-CEO and co-founder of Devana, a French company building sovereign, human-centred AI for critical European environments. Devana orchestrates AI models into a co-pilot for knowledge work, designed to comply with EU regulation.
-
 ### Bart Dubbeldam
 
 - Job title: Founding Engineer
@@ -921,6 +934,13 @@ Co-founder of Hubblo, a cooperative providing intelligence and guidance for tech
 - Company: Milliman
 - Sessions:
   - Continuous Expert-in-the-loop Agentic AI Validation (3 December 2026, 12:00–12:25)
+
+### Bertrand Billoud
+
+- Job title: Responsable plateformes open data et API
+- Company: SNCF
+- Sessions:
+  - Table ronde « Et si la prochaine coupure touchait la géostack ? » (3 December 2026, 14:10–15:05)
 
 ### Betty Beauge
 
@@ -1060,8 +1080,8 @@ Caroline Darmon est Directrice RSE de Publicis en France, 2 ème groupe mondial 
 - Job title: Head of Content
 - Company: Build It Summit
 - Sessions:
+  - Opening DRE et BIS (2 December 2026, 09:15–09:20)
   - Opening Session (2 December 2026, 09:15–09:30)
-  - Opening DRE et BIS (2 December 2026, 09:15–09:40)
   - Building with agents, building agents (3 December 2026, 11:20–11:55)
   - Build creative, interactive apps & games (3 December 2026, 15:55–16:30)
 
@@ -1111,7 +1131,7 @@ Créateur du Baguette Index avec Louis-Marie Lorin.
 - Sessions:
   - AI model for Maps (1 December 2026, 12:30–12:30)
   - Open source : la future clef de voûte de votre stratégie IT ? (3 December 2026, 09:30–11:15)
-  - Quand la carte s'arrête (3 December 2026, 14:10–15:05)
+  - Table ronde « Et si la prochaine coupure touchait la géostack ? » (3 December 2026, 14:10–15:05)
 
 ### Charlie Vernot-Rochey
 
@@ -1146,6 +1166,13 @@ At the same time, she is a sponsor in the context of the Lycées de la Réussite
 - Company: Google
 - Sessions:
   - Building Software in the AI Era (3 December 2026, 12:30–12:55)
+
+### Chris Mazur
+
+- Job title: Ambassador
+- Company: Cloud Native Computing Foundation
+- Sessions:
+  - Welcoming address (2 December 2026, 11:15–11:20)
 
 ### Christian Grothoff
 
@@ -1209,7 +1236,7 @@ Sustainable IT expert, in charge of Crédit Agricole Technologies and Services�
 - Company: Google Apigee
 - Sessions:
   - Hands-On AI Gateway: Securing, Routing, and Governing LLMs & MCP with Apigee (1 December 2026, 11:00–11:55)
-  - The Business of AI: Scaling Agents, Tokenomics, and Trust (3 December 2026, 12:00–12:25)
+  - The Business of AI: Scaling Agents, Tokenomics, and Trust (2 December 2026, 14:00–14:25)
 
 Christiophe Lalevee is Apigee Customer Engineering Lead.
 
@@ -1292,6 +1319,12 @@ Data Center sustainability and energy efficiency expert
   - Managing Brand Reputation at the Age of Deepfakes (2 December 2026, 14:00–14:40)
 
 Constance Lavergne is an expert in information security and digital trust who helps executives understand how AI is reshaping influence, reputation and strategic communications. Combining nearly two decades at Microsoft with advanced studies in information warfare and economic intelligence, she translates concepts traditionally reserved for national security into practical frameworks for marketers and business leaders. Her work focuses on helping organizations build trust, anticipate information risks and communicate responsibly in the AI era.
+
+### Constance Nebbula
+
+- Job title: Viceprésidente de la Région Pays de la Loire - Présidente d’Open Data France
+- Sessions:
+  - Table ronde « Et si la prochaine coupure touchait la géostack ? » (3 December 2026, 14:10–15:05)
 
 ### Cristina Caffarra
 
@@ -1609,7 +1642,6 @@ Dorian Blanc is Field CTO at Gravitee, with deep expertise in API Management and
 - Company: codecentric AG
 - Sessions:
   - Event Contracts Are Domain Decisions (2 December 2026, 15:30–15:55)
-  - Your Domain Model Is Your API Spec - and Your First Prompt (3 December 2026, 11:00–11:25)
   - Your Domain Model Is Your API Spec — and Your First Prompt (3 December 2026, 11:00–11:25)
 
 Enterprise Architecture and Software Architecture in complex projects.
@@ -1654,8 +1686,8 @@ Ekaterina Smid Gankin bridges policy, procurement and sustainable digital infras
 
 ### Elena Guz
 
-- Job title: Financial Risk Manager
-- Company: Morgan Stanley
+- Job title: AI Governance and Risk Transformation Advisor
+- Company: Independent
 - Sessions:
   - AI governance in financial services (3 December 2026, 14:15–14:40)
 
@@ -2054,6 +2086,13 @@ Creator of AsyncAPI. Empowering Staff+ Engineers & Architects to master Event-Dr
 
 At Forward Partners, Franck Debane helps large organizations like Renault, Schneider Electric, Engie and Belden turn what their customers say into new products. These days he does it with AI. He studied artificial intelligence as an engineer back in 1996, then spent 15 years building tech products in Silicon Valley, London and Paris, BBC.com and Criteo among them. He hosts Lead Innovation Day, an invitation-only event for senior innovation and AI leaders. At EDHEC Business School he teaches innovation, and his book "Passez en mode startup" is a guide to understanding customer needs.
 
+### Franck Ella
+
+- Job title: Head of Data & AI Technology, Group Data Office
+- Company: Transdev
+- Sessions:
+  - Accès, stockage, partage : comment les CDO doivent répondre aux exigences réglementaires et de conformité sans freiner les usages ? (1 December 2026, 14:00–14:40)
+
 ### Frank Kilcommins
 
 - Job title: Head of Enterprise Architecture
@@ -2147,6 +2186,13 @@ Frode Ettesvoll is the CEO of Compose Software, the Oslo-based low-code platform
 - Company: INSEE
 - Sessions:
   - Open source : la future clef de voûte de votre stratégie IT ? (3 December 2026, 09:30–11:15)
+
+### Frédéric Jacon
+
+- Job title: Chef du département géospatial
+- Company: CampToCamp
+- Sessions:
+  - Les verrous à lever : où porter l’effort collectif ? Premier retour d’expérience (3 December 2026, 15:05–15:30)
 
 ### Frédéric Rivain
 
@@ -2550,7 +2596,7 @@ Senior Engineering Manager with a staff-level technical foundation and a craftsm
 - Job title: Information Security Officer
 - Company: Euroclear
 - Sessions:
-  - TBA (2 December 2026, 10:30–10:55)
+  - L'accélération et l'industrialisation des cyber attaques autonomes par IA (2 December 2026, 10:30–10:55)
 
 ### Hugo Duminil-Copin
 
@@ -2612,7 +2658,7 @@ Software development is my passion and I have been able to make it my life. As a
 - Job title: Chief Research Officer
 - Company: GroupBees
 - Sessions:
-  - Your APIs Are Ready. But Are They AI-Ready? From API Sprawl to AI-Ready Governance - A Live Journey with Solis Hub (1 December 2026, 15:00–15:25)
+  - Your APIs Are Ready. But Are They AI-Ready? From API Sprawl to AI-Ready Governance - A Live Journey with Solis Hub (1 December 2026, 14:00–14:55)
   - When AI Agents Meet Your API Gateway (3 December 2026, 14:00–14:25)
 
 Iliass Ayaou is Chief Research Officer at GroupBees, where he leads the design of Solis, a platform for API governance, packaging and exposure. He is also a postdoctoral researcher in the AIARD industrial chair at ICube, INSA Strasbourg. His research covers patent-oriented information retrieval, representation learning and expert-guided inventive design, and tooling for AI agents. He contributes to open-source projects and publishes models and datasets on Hugging Face.
@@ -2709,15 +2755,6 @@ Ivan Porta is the founder of Todea, a Seoul-based cloud-native engineering consu
   - From Seven Silos to One Question: MCP in Production for Hydrogen Aircraft Design (3 December 2026, 14:00–14:25)
 
 Jacques-Alexis Verrecchia leads the development of Beyond Aero's electric and hydrogen-powered aircraft, bridging technical innovation with market viability. He also leads Beyond Aero's internal AI development, building agentic and generative tools that compress the engineering decision cycles behind a clean-sheet aircraft - putting the company at the leading edge of applying AI to aerospace development itself. His career began at Airbus, where he specialised in aeroacoustics and propulsion innovations. He later co-founded NIXYS, a medical tech startup, and served as Head of AI and DevOps at TheGreenData, focusing on predictive models for sustainability. With dual master's degrees from École Polytechnique and École des Ponts, Jacques-Alexis combines deep technical expertise with a passion for transformative solutions in aviation.
-
-### James Gough
-
-- Job title: Distinguished Engineer
-- Company: Morgan Stanley
-- Sessions:
-  - Defining controls and policies with CALM (3 December 2026, 14:40–15:20)
-
-Distinguished Engineer at Morgan Stanley. Co-Author of Optimizing Java and Mastering API Architecture, published by O’Reilly.With a focus on Software quality, I care about the standard of the software I deliver as well as the end result for the business. I enjoy working in a team to deliver the best product possible and enjoy working with others to improve coding techniques and technical skills.I enjoy teaching and mentoring as much as writing the code itself and I am an accomplished technical trainer and author. Although my passion is for Java, I am not tied to the language or tool chain and I am always willing to discuss and select the right tools for the job. My style of teaching is interactive and I expect to be challenged, and meet this challenge with reasoning and investigation during live sessions.
 
 ### James Martin
 
@@ -2829,8 +2866,8 @@ I have been thanked for my work around automation of processes allowing the comp
 - Job title: President, VideoLAN / CEO
 - Company: Kyber / Tech Fellow Scaleway
 - Sessions:
-  - AI Edge for the AI Age: Streaming Data for Robots and Drones (1 December 2026, 11:30–11:55)
   - Secure Low-Latency Video & C2 (1 December 2026, 15:20–15:40)
+  - AI Edge for the AI Age: Streaming Data for Robots and Drones (1 December 2026, 15:30–15:55)
 
 Technology and Free Software enthusiast with a wide scientific background.
 I am an entrepreneur, a CTO, Tech advisor, Startups board member and President of an Open Source NGO, working on VLC & FFmpeg.
@@ -2960,6 +2997,13 @@ Joep works at the overlap of socio-technical design, technical story-telling and
 
 John has spent more than 20 years making enterprise systems work together, across software development, integration and business process automation, with a deep focus on SAP. He has worked on almost every integration platform there is and written several books on the subject. At Alldotz, he leads the technology behind a platform teams can start on and stay on, from their first flow to business-critical.
 
+### Johny Thoumaked
+
+- Job title: Tech Lead
+- Company: Malakoff Humanis
+
+Johny Thoumaked is a Tech Lead with Malakoff specializing in CIAM (Customer Identity and Access Management), MOM (Message-Oriented Middleware), and API Management. He designs and oversees secure, scalable architectures that enable seamless integration between  applications and services. With a strong focus on reliability, performance, and security, he supports teams in implementing best practices and delivering robust digital platforms.
+
 ### Jon Scheele
 
 - Job title: Founder & Principal Consultant
@@ -2981,6 +3025,7 @@ Jon Scheele is the founder of Blue Connector, an independent technology advisory
 - Job title: Principal Pre-Sales Architect
 - Company: Axway
 - Sessions:
+  - MCP: Where Agents Meet Enterprise Governance (1 December 2026, 12:30–12:55)
   - Agentic AI Is Inevitable. How Do You Govern It Safely Without Losing Control of Costs? (2 December 2026, 11:50–12:15)
 
 Enterprise technology executive with 20+ years driving growth and transformation in AI, security and cloud for global organisations in regulated industries, especially financial services. Combines an aeronautical engineering degree with an MBA, bringing engineering rigour and business acumen to every strategic decision. Trusted by boards and CxOs (CEOs, CIOs, CISOs, CTOs and Chief AI Officers), and equally credible with architects and engineering teams thanks to deep technical expertise and certifications. 
@@ -3006,7 +3051,6 @@ Joshua is a data scientist working in green tech, with a background in particle 
 - Job title: Security Software Engineer
 - Company: Okta
 - Sessions:
-  - MCP: Where Agents Meet Enterprise Governance (1 December 2026, 12:30–12:55)
   - Vulnerability Remediation: tackling on all fronts (3 December 2026, 11:00–11:25)
 
 José Carlos Chávez is a Security Software Engineer at Okta and an OWASP Coraza co-leader. He enjoys working in Security, building AI (sustainable) automations, designing APIs and building distributed systems. While not working with code, you can find him sipping on kombuchas or enjoying his children.
@@ -3196,7 +3240,7 @@ Kai Levin is a Cloud-Native Developer, Team Lead, and AI Community Lead at Erics
 - Job title: CTO & Co-Founder
 - Company: ITSharkz
 - Sessions:
-  - AI Agents, Healthcare, and Data Anonymization (1 December 2026, 16:30–16:55)
+  - Your Business Runs on Documents AI Isn’t Allowed to Read. Unlock Them in 3 Steps. (1 December 2026, 16:30–16:55)
 
 Kamil Kostrzewski is Co-Founder of ITSharkz, a Warsaw-based technology partner that provides dedicated engineering teams and AI automation with AI agents. Kamil works on engineer staffing and technical input for partner projects.
 
@@ -3267,7 +3311,7 @@ Active in API strategy since the early boom of APIs, Ketty has guided organizati
 - Company: Google Cloud
 - Sessions:
   - Hands-On AI Gateway: Securing, Routing, and Governing LLMs & MCP with Apigee (1 December 2026, 11:00–11:55)
-  - The Business of AI: Scaling Agents, Tokenomics, and Trust (3 December 2026, 12:00–12:25)
+  - The Business of AI: Scaling Agents, Tokenomics, and Trust (2 December 2026, 14:00–14:25)
 
 Kevin leads the EMEA team of Apigee Customer Engineers, they are responsible for customer success for API Management, Application Integration and API security products. He is always looking for ways to help customers get value from APIs. Outside of work Kevin is interested in IPAs. Kevin has worked as customer engineer (pre-sales) for 20+ years. First at Oracle for the Applications practice, then for Apigee and the last 10 years for Google Cloud. Holds a Master's degree in Computer Science, with a specialization in Software Engineering and a minor in IT Business Management.
 
@@ -3372,7 +3416,7 @@ Laetitia Lamari is the Founder & CEO of Butterfly Agency, helping brands navigat
 - Sessions:
   - Beyond Planned Obsolescence: Making Digital Devices Last (2 December 2026, 11:20–11:45)
 
-Laëtitia Vasseur is co-founder and Executive Director of HOP, a French NGO fighting planned obsolescence. She also founded the Club de la Durabilité, a business network, and the International Durability Alliance to promote longer-lasting products
+Laëtitia Vasseur is co-founder and Executive Director of HOP, a French NGO fighting planned obsolescence. She also founded the Club de la Durabilité, a business network, and the International Durability Alliance to promote longer-lasting products.
 
 ### Laura Gunn
 
@@ -3419,6 +3463,12 @@ Ingénieure, spécialisée dans les enjeux du Numérique et de l'IA, Laure accom
   - Proof of Work: Why Write Poems or Equations When AI Can Do Both? (1 December 2026, 10:20–10:40)
 
 Lauren Ducrey spent seven years at Google designing AI like the Google Assistant and Gemini, where she uncovered a truth: in an AI-powered world, the leaders who thrive aren't the most technical—they're the most emotionally intelligent. An award-winning poet and AI strategist who calls herself a Poetechnologist, she now helps global organizations change how teams lead, connect, and communicate, using generative AI and poetic thinking to unlock creative resilience and cultural change. Lauren has headlined conferences including Adopt AI and MIT's AI Powered Women, and led sessions for leaders at AXA, PepsiCo, Meta, and Google. Featured by Bloomberg, The Huffington Post, and Le Monde, she brings poetic firepower and tech fluency to every stage.
+
+### Laurence Houdeville
+
+- Job title: ex. MINISTERE DE l'INTERIEUR
+- Sessions:
+  - Accès, stockage, partage : comment les CDO doivent répondre aux exigences réglementaires et de conformité sans freiner les usages ? (1 December 2026, 14:00–14:40)
 
 ### Laurent Broudoux
 
@@ -3476,6 +3526,15 @@ Laurent Grangeau is a Solutions Architect at Google. He is also the organiser of
   - Technical Rex Proxmox (3 December 2026, 11:30–11:55)
 
 Laurent Guerby : Ingénieur système et réseau à IMT Mines Albi, une école d'ingénieur publique du groupe IMT Institut Mines Telecom. Il est a mi-temps RSSI (Responsable de la Sécurité des Systèmes d'Information) de l'établissement. Ces dernières années les outils Proxmox VE avec CEPH et Proxmox Backup Server ont été déployés en remplacement de solutions propriétaires dans le système d'information de l'établissement. Par ailleurs Laurent est membre des GT Proxmox et ZFS, développeur de logiciel libre et ancien vice-président de l'association APRIL https://april.org.
+
+### Laurent Marchal
+
+- Job title: Principal Pre Sales Architect
+- Company: Axway
+- Sessions:
+  - Agentic AI Is Inevitable. How Do You Govern It Safely Without Losing Control of Costs? (2 December 2026, 11:50–12:15)
+
+Experienced Information Technology System Architect with a demonstrated history of working in the banking industry. Strong engineering professional skilled in WebSphere MQ, ITIL, Application Programming Interfaces, Middleware, and ESB.
 
 ### Laurent Nicolas-Guennoc
 
@@ -3590,6 +3649,11 @@ She is the author of Container Security, and Learning eBPF, both published by O'
 
 Lizzie serves developers in the Bay Area and beyond on Entire's developer relations team and holds a Bachelor's degree in Computer Science from Bryn Mawr. She likes JavaScript, Python, and working with AI. When not organizing or attending hackathons and meetups, she enjoys tennis, ping pong, and all things Disney.
 
+### Loic Moisand
+
+- Job title: CEO
+- Company: Ockhame
+
 ### Loubna Ben Allal
 
 - Job title: Research Lead
@@ -3673,6 +3737,13 @@ In the past year he has led Point One's key European milestones: the Orange/Tote
   - Where Kafka meets APIs: how VINCI Construction exposes and governs streaming data (2 December 2026, 14:30–14:55)
 
 Lucas Mundinger is a Data Integration Project Manager at VINCI Construction. Over the past six years, he has contributed to digital transformation initiatives through enterprise APIs, supported integration platform migrations, and now helps drive event-driven architectures using Kafka, APIs, and data streaming technologies.
+
+### Lucian Balea
+
+- Job title: Directeur adjoint R&D et Directeur Open Source
+- Company: RTE
+- Sessions:
+  - Table ronde « Et si la prochaine coupure touchait la géostack ? » (3 December 2026, 14:10–15:05)
 
 ### Ludi Akué
 
@@ -3911,9 +3982,16 @@ I write software and I love it.
 
 I love it even more if the language I use is named after a small Island in the Baltic sea and involves little green robots.
 
-### Marvin Wissfeld
+### Martina Barbero
 
-- Job title: Software engineer
+- Job title: Policy Officer
+- Company: DG Connect European Commission
+- Sessions:
+  - European Commission’s vision for Open Source and Tech Sovereignty (2 December 2026, 15:00–15:10)
+
+### Marvin Wißfeld
+
+- Job title: Software Engineer
 - Company: microG
 - Sessions:
   - microG: Cutting Europe's dependency on Google Play Services (3 December 2026, 09:45–10:10)
@@ -4045,8 +4123,9 @@ President of Numeum, the French digital industry association, since July 2026. H
 - Company: Founder and Chairman of Apidays Conferences
 - Sessions:
   - Welcome and Opening Remarks (1 December 2026, 08:50–09:00)
+  - Opening DRE et BIS (2 December 2026, 09:15–09:20)
   - Welcome and Opening Remarks (2 December 2026, 09:15–09:30)
-  - Opening DRE et BIS (2 December 2026, 09:15–09:40)
+  - Welcoming address (2 December 2026, 11:15–11:20)
 
 Mehdi Medjaoui is the founder of APIdays conferences series worldwide, that he started in 2012 in Paris. He is highly involved in the API community and API Industry, and is a current author, lecturer, consultant and investor in the API space. In 2011 he co-founded OAuth.io, a SaaS OAuth API middleware for OAuth integration and implementation used by 40,000+ developers, that had been acquired in December 2017. His research involves publishing the API Industry Landscape and the yearly State of Banking APIs.
 
@@ -4115,7 +4194,7 @@ Board member of Boavizta, leading communications. Project manager in sustainable
 - Job title: Facilitateur et animateur
 - Company: Linagora
 - Sessions:
-  - Twake.ai: When the Sovereign Digital Workspace Becomes Agentic (1 December 2026, 16:30–17:25)
+  - Twake.ai: When the Sovereign Digital Workspace Becomes Agentic (1 December 2026, 15:00–15:55)
   - Opening Remarks (2 December 2026, 09:30–09:55)
   - IA agentique : L’Open Source peut-il changer la donne en Europe ? (2 December 2026, 17:00–17:40)
   - Twake.ai: when the Sovereign Digital Workspace becomes Agentic (3 December 2026, 12:30–12:55)
@@ -4304,8 +4383,8 @@ Senior AI researcher studying open, sustainable and inclusive AI and digital inf
 - Job title: Founder & CEO
 - Company: Specmatic
 - Sessions:
-  - Can Harness Engineering make Smaller AI Models Viable? (2 December 2026, 14:00–14:25)
   - Beyond REST: Evolving Arazzo for Real-World Agentic Workflows (3 December 2026, 09:45–10:10)
+  - Can Harness Engineering make Smaller AI Models Viable? (3 December 2026, 12:00–12:25)
   - AsyncAPI Ambassador Panel - Can AsyncAPI help AI Agents Speak Event-Driven? (3 December 2026, 14:30–15:25)
 
 Naresh Jain is an internationally recognised Technology & Product Development Expert. Naresh started his career building Neural Networks to classify satellite images for Indian Space Research Organisation (ISRO). Over the last 25 years, he has played a key role in streamlining the product engineering culture at many unicorns and fortune 500 companies (Jio, Google, Amazon, JP Morgan, Siemens Medical, GE Energy, Schlumberger, Shell, Dell, to name a few). Learn more about Naresh at https://nareshjain.com
@@ -4468,8 +4547,8 @@ Her research has been published in peer-reviewed journals and been cited in vari
 - Job title: Co-founder / Lead engineer & President
 - Company: SuperStack coalition / NextGraph
 - Sessions:
-  - SuperStack Coalition: gathering forces towards sovereignty and scale (2 December 2026, 15:00–15:25)
-  - ELFA: working on a local-first end-to-end encrypted office workspace (3 December 2026, 12:15–12:25)
+  - SuperStack Coalition: gathering forces towards sovereignty and scale (2 December 2026, 15:10–15:25)
+  - ELFA: working on a local-first end-to-end encrypted office workspace (3 December 2026, 12:25–12:30)
   - Sovereign Local-First E2EE solutions: ELFA workspace & NextGraph SDK (3 December 2026, 14:30–14:55)
 
 ### Nina Benoit
@@ -4550,6 +4629,18 @@ Oliver Cronk (Architect Tomorrow) is an experienced and influential member of th
 - Sessions:
   - Stop Planting Only Corn: Why Resilient Infrastructure Needs Diversity (2 December 2026, 15:00–15:25)
 
+### Olivier Poupeney
+
+- Job title: Field CTO Linux Foundation
+- Company: FINOS
+- Sessions:
+  - AI Governance as Code (3 December 2026, 14:40–15:20)
+
+As Field CTO based out of New York, Olivier acts as a trusted technical advisor for FINOS’ open source projects. In this role, he supports project maintainers in driving contributions, advancing project evolution, and promoting initiatives at developer-focused and industry-centric events.
+Prior to FINOS, Olivier led Developer Relations at Orkes, fostering engagement within the Netflix Conductor developer community and regularly speaking at developer conferences.
+Before joining Orkes, Olivier was Director of Developer Ecosystem at Symphony, where he built Symphony’s open source strategy and managed its related developer tooling contributions to FINOS such as Bot Developer Kit (BDK).
+Earlier in his career, Olivier created and led engineering for two developer centric platforms until their respective acquisitions. He is also the co-author of a patented method of creating customizable applications.
+
 ### Olivier Rohou
 
 - Job title: CEO
@@ -4573,7 +4664,7 @@ Over 20 years experience as a Software Developer and software architect on Micro
 - Sessions:
   - Unconference: API standards 2027 working group (3 December 2026, 15:55–16:50)
 
-### Paloma Oliviera
+### Paloma Oliveira
 
 - Job title: Technologist
 - Company: Sovereign Tech Agency
@@ -4921,6 +5012,13 @@ The quest to increase knowledge is also an inherent quest to not decrease it. Ne
 - Sessions:
   - Open is the majority now. what are you doing about it? (1 December 2026, 12:00–12:25)
 
+### Ragnar Bergstrom
+
+- Job title: Team Leader, Future Internet Unit
+- Company: European Commission
+- Sessions:
+  - EU Open Source Strategy: key role of the Open Internet Stack (3 December 2026, 12:15–12:25)
+
 ### Rainer Scheibehenne
 
 - Job title: Enterprise Architect
@@ -5078,11 +5176,6 @@ Romain Bachelet is responsible of Green IT and digital economic performance with
 
 20 years at Orange involved in AI research & delivery projects.  Member of Inventors Community + Energy & Environment Experts Community.
 
-### Romain Dillet
-
-- Job title: VC
-- Company: Drysdale Ventures
-
 ### Romain Jacob
 
 - Job title: Senior Researcher
@@ -5174,6 +5267,13 @@ Roxane Laigle est cofondatrice et CEO de Lemrock, la plateforme qui permet aux m
 - Sessions:
   - La Dynamique IGN dans Eurocomons (2 December 2026, 16:30–16:55)
 
+### Ryan Lahfa
+
+- Job title: Senior principal engineer
+- Company: Omnicité
+- Sessions:
+  - From Windows to a desktop you own (2 December 2026, 14:00–14:25)
+
 ### Saad Amal
 
 - Job title: Software Engineer
@@ -5228,11 +5328,11 @@ Sacha van Geffen is CTO of Leafcloud, a European cloud reusing its servers’ he
 ### Samir Akarioh
 
 - Job title: Developer Advocate
-- Company: Gatling
+- Company: Scalingo
 - Sessions:
   - Securing MCP: turning LLM tools into production-grade systems (1 December 2026, 15:30–15:55)
 
-I'm Samir Akarioh DevRel at Gatling, and I worked at Qdrant and Canonical. I'm passionate about testing and devops ( container, docker,....) Also fun fact, I already played with FairyPeak a former pro and coach on Rocket League.
+Samir Akarioh is a DevRel at Scalingo. Passionate about cloud, DevOps and generative AI, he focuses on the challenges of moving from prototype to production. Through his talks, he shares a pragmatic take on technology, with a particular interest in automation, security and system reliability.
 
 ### Samuel Gaus
 
@@ -5484,7 +5584,7 @@ Stani joined the DC industry in 2020 as sustainability researcher examining the 
 - Job title: Co-founder & CTO
 - Company: Dust
 - Sessions:
-  - TBA (1 December 2026, 15:30–15:55)
+  - The end of the fog of AI: And the opportunity to reinvent the productivity suite in a post-agentic era (1 December 2026, 11:30–11:55)
 
 ### Steeve Morin
 
@@ -5574,7 +5674,7 @@ Principal Architect at Cisco, Stève specializes in API design, machine-readable
 - Job title: CTO
 - Company: GENCI
 - Sessions:
-  - TBA (2 December 2026, 11:50–12:15)
+  - GENCI a public HPC/AI/QC infrastructure serving science and innovation in Europe (2 December 2026, 11:50–12:15)
   - Panel : Breaking Chips and supercomputer monopoly (2 December 2026, 15:30–15:55)
 
 ### Stéphane Tranquillin
@@ -5652,7 +5752,7 @@ Sébastien Charrier has been a developer for 20 years, including 10 years of bui
 - Company: IGN 🇫🇷
 - Sessions:
   - La Fabrique de la souveraineté (3 December 2026, 09:15–09:40)
-  - Ouverture (3 December 2026, 14:00–14:10)
+  - Ouverture, dans la suite de l’Appel de Tours (3 December 2026, 14:00–14:10)
 
 ### Tala Awada
 
@@ -5667,6 +5767,8 @@ Sustainable IT Project Manager at VINCI Energies Systèmes d'Information
 
 - Job title: Founder
 - Company: Cybenetica.fr
+- Sessions:
+  - TBA (2 December 2026, 09:20–09:45)
 
 ### Thibaud Guilpain
 
@@ -5860,6 +5962,8 @@ Delivery and custom success manager chez Sopht I B Corp certified
 
 - Job title: VP Government Affairs and Partnerships
 - Company: Current AI
+- Sessions:
+  - AI Potluck Demo by Current AI (2 December 2026, 12:45–12:50)
 
 ### Tim Chang
 
@@ -5902,6 +6006,13 @@ Timothée Le Borgne founded OhMyUnicorn, an AI app builder that turns one senten
   - Salt, Fat, Sugar, Data (3 December 2026, 09:30–10:05)
 
 Tom Greenwood is co-founder of B Corp digital agency Wholegrain Digital. He wrote the book 'Sustainable Web Design' and his new book 'Overton’s Garden' invites you to discover radical possibilities for sustainability and hope.
+
+### Tom Lucas
+
+- Job title: XAI Phd Student
+- Company: Devana
+- Sessions:
+  - Debunking misconceptions about local AI: what you can actually build locally vs. the “fast-food model” race (2 December 2026, 15:35–15:55)
 
 ### Tom O'Rourke
 
@@ -5971,7 +6082,7 @@ Vedran Cindrić is the founder and CEO of Treblle, a SaaS company that helps Eng
 - Job title: Managing Partner and Co-Founder
 - Company: ITSharkz
 - Sessions:
-  - AI Agents, Healthcare, and Data Anonymization (1 December 2026, 16:30–16:55)
+  - Your Business Runs on Documents AI Isn’t Allowed to Read. Unlock Them in 3 Steps. (1 December 2026, 16:30–16:55)
 
 Victor Carraz is Managing Partner and Co-Founder of ITSharkz, a Warsaw-based technology partner that provides dedicated engineering teams and AI automation with AI agents. At apidays Paris, Victor shows how teams can let AI agents work on documents that contain personal data while keeping that data under their control.
 
@@ -6028,6 +6139,13 @@ Vincent Caldeira, Red Hat APAC CTO and Industry Visiting Scholar at Columbia Uni
 Vincent Claveau is a computer science researcher specializing in natural language processing (NLP). He holds a PhD in Computer Science (2003) and an Habilitation à Diriger des Recherches (2020) from the University of Rennes 1.
 
 For 15 years, at the French Center for Scientific Research (CNRS), he developed cutting-edge research and led projects in many domains, including information retrieval, biomedical NLP and fake news detection. For the past 4 years, he has been working within the French Ministry of Defense, where he focuses on developing and deploying generative AI to meet operational needs.
+
+### Vincent Picavet
+
+- Job title: Président
+- Company: Oslandia
+- Sessions:
+  - Les verrous à lever : où porter l’effort collectif ? Premier retour d’expérience (3 December 2026, 15:05–15:30)
 
 ### Vincent Poncet
 
@@ -6096,6 +6214,13 @@ Vinorth Varatharasan est Senior Data Scientist chez Kolecto, où il conçoit des
   - What Is Your AI Actually Doing (and Costing)? A Practical Guide to Visibility (3 December 2026, 11:00–11:25)
 
 Wadhah is a Technical Success Manager at New Relic who helps engineering teams scale and automate their telemetry strategies through Observability as Code and Terraform. His expertise spans cloud-native monitoring with Kubernetes and Prometheus integrations, centralized log management, and building actionable visibility using custom NRQL queries, tailored dashboards, and automated alerts configurations.
+
+### Walid Erray
+
+- Job title: Head of AI Innovation
+- Company: CREDIT AGRICOLE
+- Sessions:
+  - 5 CDO Pitchs (1 December 2026, 10:10–10:40)
 
 ### Weronika Kołodziej
 
@@ -6258,7 +6383,7 @@ Yossi is a Principal Engineer at Incredibuild, where he works on build accelerat
 - Job title: Co-Founder and CTO
 - Company: GroupBees
 - Sessions:
-  - Your APIs Are Ready. But Are They AI-Ready? From API Sprawl to AI-Ready Governance - A Live Journey with Solis Hub (1 December 2026, 15:00–15:25)
+  - Your APIs Are Ready. But Are They AI-Ready? From API Sprawl to AI-Ready Governance - A Live Journey with Solis Hub (1 December 2026, 14:00–14:55)
   - Securing and Industrializing AI Adoption at Scale (2 December 2026, 14:00–14:25)
 
 Youssef Guenoun is CTO and Co-Founder of GroupBees, driving complex technology transformations for leading organizations across banking, insurance, government, retail, and cybersecurity.

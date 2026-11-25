@@ -2,7 +2,7 @@
 
 Extract of the full list of events and speakers of [FOST Paris 2026](https://joinfost.io/events/paris#agenda) (1-3 December 2026) as JSON and Markdown files.
 
-> **Last update:** 
+> **Last update:** 2026-11-25T16:22:30+01:00
 
 ## Data files
 

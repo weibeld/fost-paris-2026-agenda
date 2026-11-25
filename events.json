@@ -1,6 +1,6 @@
 {
   "source": "https://joinfost.io/events/paris#agenda",
-  "extracted_at": "2026-11-24T16:15:25+01:00",
+  "extracted_at": "2026-11-25T16:22:30+01:00",
   "timezone": "Europe/Paris",
   "events": [
     {
@@ -391,9 +391,14 @@
           "name": "Mehdi Esmail",
           "jobtitle": "Chief AI & Data Officer",
           "company": "Worldline"
+        },
+        {
+          "name": "Walid Erray",
+          "jobtitle": "Head of AI Innovation",
+          "company": "CREDIT AGRICOLE"
         }
       ],
-      "description": "<p>Concilier conformité et environnement réglementaire évolutif - Katarina Krcunovic, CDO, Eau de Paris\nCulture IA, acculturation &amp; formation : passage de l’IA à la data (best practices) - Mehdi ESMAIL, CDO, WORLDLINE\nL'impératif de collaboration entre équipes IT &amp; métiers - Charaf El Hami, Group Chief Data Officer / Global Head of Data Management, Amundi</p>"
+      "description": "<p>Concilier conformité et environnement réglementaire évolutif - Katarina Krcunovic, CDO, Eau de Paris\nL'impératif de collaboration entre équipes IT &amp; métiers - Charaf El Hami, Group Chief Data Officer / Global Head of Data Management, Amundi\nAdopter une démarche produit appliquée à l'IA - Yohan Choukroun, AI &amp; Data Science Director, BELIEVE\nConcilier performance métier et indicateurs IA - Walid Erray, Head of AI Innovation, Crédit Agricole\nCulture IA, acculturation &amp; formation : passage de l’IA à la data (best practices) - Mehdi Esmail, CDO, Worldline</p>"
     },
     {
       "id": "8665ea18-648d-4bd6-aec6-4923e773bd68",
@@ -726,7 +731,7 @@
         "GenerationAI"
       ],
       "tracks": [
-        "Entrainement de dataset"
+        "AI Agents in Production"
       ],
       "speakers": [
         {
@@ -1076,31 +1081,6 @@
       "description": "<p>Panoramax is an open-source software stack to create street-level imagery open alternatives. Launched in 2022 by the French mapping agency (IGN) and OpenStreetMap France, it is built and maintained by a community of public entities, companies and various other contributors and now gathers over 120 million photos released under open data licenses, with a decentralized architecture allowing anyone to host an instance and join the federation. Computer vision plays a dual role here. First, as a safeguard: each photo passes through an AI-based blurring pipeline, anonymizing faces, license plates and ensuring GDPR/CNIL compliance without gatekeeping contribution. Second, as a value multiplier: the standardized (STAC) dataset is used to train and run models for tasks like road and urban furniture inventory, building diagnosis, etc. turning a commons into reusable data as detections can be shared through the semantic tagging system. Some datasets and models (e.g. road-sign detection) are published on Hugging Face. There is also potential to improve the pictures (e.g. horizontal alignment correction) and the available data represent a gold mine for the research community. This talk will show how Panoramax embodies commons governance (federation over centralization, community, open licensing) while illustrating concrete opportunities: privacy-preserving AI as an enabler of openness and derived AI use-cases as a way to sustain and multiply the value created by contributors.</p>"
     },
     {
-      "id": "168f1745-52c2-450c-9bdc-01ec18327809",
-      "title": "AI Edge for the AI Age: Streaming Data for Robots and Drones",
-      "type": "Talk",
-      "date": "2026-12-01",
-      "start": "11:30",
-      "end": "11:55",
-      "rooms": [
-        "Baobab 3"
-      ],
-      "conferences": [
-        "GenerationAI"
-      ],
-      "tracks": [
-        "Physical AI, Network and Robotics"
-      ],
-      "speakers": [
-        {
-          "name": "Jean-Baptiste Kempf",
-          "jobtitle": "President, VideoLAN / CEO",
-          "company": "Kyber / Tech Fellow Scaleway"
-        }
-      ],
-      "description": ""
-    },
-    {
       "id": "3e759e71-c41c-49b5-b118-97219fb72a87",
       "title": "AI as editor, not author: Keeping content standards consistent across hundreds of pages",
       "type": "Talk",
@@ -1250,6 +1230,29 @@
           "name": "Victor Schmidt",
           "jobtitle": "CTO",
           "company": "Entalpic"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "4620a17f-769b-4285-9a34-01132a059aef",
+      "title": "The end of the fog of AI: And the opportunity to reinvent the productivity suite in a post-agentic era",
+      "type": "Talk",
+      "date": "2026-12-01",
+      "start": "11:30",
+      "end": "11:55",
+      "rooms": [
+        "Baobab 3"
+      ],
+      "conferences": [],
+      "tracks": [
+        "AI Agents in Production"
+      ],
+      "speakers": [
+        {
+          "name": "Stanislas Polu",
+          "jobtitle": "Co-founder & CTO",
+          "company": "Dust"
         }
       ],
       "description": ""
@@ -2015,13 +2018,13 @@
       ],
       "speakers": [
         {
-          "name": "José Carlos Chávez",
-          "jobtitle": "Security Software Engineer",
-          "company": "Okta"
-        },
-        {
           "name": "Anuj Kumar",
           "jobtitle": "Principal Product Manager",
+          "company": "Axway"
+        },
+        {
+          "name": "Jose Monteagudo",
+          "jobtitle": "Principal Pre-Sales Architect",
           "company": "Axway"
         }
       ],
@@ -2255,7 +2258,7 @@
       "speakers": [
         {
           "name": "Alek Tarkowski",
-          "jobtitle": "Strategy Director",
+          "jobtitle": "Director of Strategy",
           "company": "Open Future"
         },
         {
@@ -2305,7 +2308,7 @@
         "GenerationAI"
       ],
       "tracks": [
-        "Open & Sovereign European Models"
+        "Open European Models"
       ],
       "speakers": [
         {
@@ -2497,7 +2500,7 @@
     },
     {
       "id": "3318765c-1d09-4f8e-a8f8-178e691c275c",
-      "title": "Accès, stockage, partage : Comment les CDO doivent répondre aux exigences réglementaires et de conformité sans freiner les usages ?",
+      "title": "Accès, stockage, partage : comment les CDO doivent répondre aux exigences réglementaires et de conformité sans freiner les usages ?",
       "type": "Panel discussion",
       "date": "2026-12-01",
       "start": "14:00",
@@ -2509,8 +2512,24 @@
         "Disrupt AI"
       ],
       "tracks": [],
-      "speakers": [],
-      "description": ""
+      "speakers": [
+        {
+          "name": "Laurence Houdeville",
+          "jobtitle": "ex. MINISTERE DE l'INTERIEUR",
+          "company": ""
+        },
+        {
+          "name": "Adil Barakate",
+          "jobtitle": "Head of Data management & IA",
+          "company": "Global Financial Services (BPCE)"
+        },
+        {
+          "name": "Franck Ella",
+          "jobtitle": "Head of Data & AI Technology, Group Data Office",
+          "company": "Transdev"
+        }
+      ],
+      "description": "<p>Franck Ella - Head of Data &amp; AI Technology, Group Data Office, Transdev\nLaurence Houdeville - Ex. Ministère de l'Intérieur\nAdil Barakate - Head of Data management &amp; IA, Global Financial Services (BPCE)</p>"
     },
     {
       "id": "49a54341-2c1b-4972-b468-4dfa66cfc028",
@@ -2674,6 +2693,34 @@
         }
       ],
       "description": "<p>AI agents accelerated coding but couldn’t handle the rest of our enterprise SDLC. Upsun engineers built Dispatch to bridge that gap.</p>"
+    },
+    {
+      "id": "e17bf83a-9e8b-49e4-bd32-be035cb4753d",
+      "title": "Your APIs Are Ready. But Are They AI-Ready? From API Sprawl to AI-Ready Governance - A Live Journey with Solis Hub",
+      "type": "Workshop",
+      "date": "2026-12-01",
+      "start": "14:00",
+      "end": "14:55",
+      "rooms": [
+        "Aubépine 1"
+      ],
+      "conferences": [
+        "Apidays"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Iliass Ayaou",
+          "jobtitle": "Chief Research Officer",
+          "company": "GroupBees"
+        },
+        {
+          "name": "Youssef Guenoun",
+          "jobtitle": "Co-Founder and CTO",
+          "company": "GroupBees"
+        }
+      ],
+      "description": "<p>APIs are everywhere. Governance isn't. As AI agents take over, who's in control? Join our live Solis Hub workshop to turn API chaos into a secure, governed, discoverable and AI-ready ecosystem.</p>"
     },
     {
       "id": "f299159e-a643-4d68-a21e-e24e1139d076",
@@ -3016,7 +3063,7 @@
         "GenerationAI"
       ],
       "tracks": [
-        "Open & Sovereign European Models"
+        "Open European Models"
       ],
       "speakers": [
         {
@@ -3319,7 +3366,7 @@
         "GenerationAI"
       ],
       "tracks": [
-        "Open & Sovereign European Models"
+        "Open European Models"
       ],
       "speakers": [
         {
@@ -3431,34 +3478,6 @@
       "description": ""
     },
     {
-      "id": "e17bf83a-9e8b-49e4-bd32-be035cb4753d",
-      "title": "Your APIs Are Ready. But Are They AI-Ready? From API Sprawl to AI-Ready Governance - A Live Journey with Solis Hub",
-      "type": "Workshop",
-      "date": "2026-12-01",
-      "start": "15:00",
-      "end": "15:25",
-      "rooms": [
-        "Aubépine 1"
-      ],
-      "conferences": [
-        "Apidays"
-      ],
-      "tracks": [],
-      "speakers": [
-        {
-          "name": "Iliass Ayaou",
-          "jobtitle": "Chief Research Officer",
-          "company": "GroupBees"
-        },
-        {
-          "name": "Youssef Guenoun",
-          "jobtitle": "Co-Founder and CTO",
-          "company": "GroupBees"
-        }
-      ],
-      "description": "<p>APIs are everywhere. Governance isn't. As AI agents take over, who's in control? Join our live Solis Hub workshop to turn API chaos into a secure, governed, discoverable and AI-ready ecosystem.</p>"
-    },
-    {
       "id": "b7884563-d736-4f67-b02f-4a0a6f7ab26c",
       "title": "Federated API Intelligence in Action: A Hands-On Demo with Treblle",
       "type": "Workshop",
@@ -3519,7 +3538,7 @@
         "Aubépine 6"
       ],
       "conferences": [
-        "Apidays"
+        "ContextCon and MCP Summit"
       ],
       "tracks": [
         "Workshops"
@@ -3605,6 +3624,31 @@
         }
       ],
       "description": "<p>AI has changed how people find information, and marketing teams are under pressure to create more content without losing control of their brand. Adding more AI tools often makes that harder, not easier.\nThis session introduces Acquia Source, the agentic content platform that teams can start using today. Acquia AI agents plan the work, bring the plan to a person for approval, and then deliver it across web governance, ROI and insights, SEO and AEO, experimentation, search, and personalization. That work draws on governed content and assets in Source CMS and Acquia DAM, both of which connect to other AI tools through MCP. Underneath it all sit Acquia Cloud Platform and Drupal, so teams get security, scale, and extensibility without vendor lock-in.\nThrough short demos and a real-world case study, a WordPress-to-Drupal migration automated with AI tools by Acquia partner FreelyGive, attendees see what governed, agentic content operations look like in practice.</p>\n<p>Attendees will learn:\n● How a plan, approve, deliver pattern keeps people in control of AI agents\n● How one request can draw on several capabilities, such as SEO and accessibility, under a single approval\n● How MCP lets external AI tools work with governed content and assets\n● What an AI-automated migration to Drupal involved, and what it means for teams considering a move</p>"
+    },
+    {
+      "id": "eb046f97-e7cb-47ce-8dd4-bfb399a8460a",
+      "title": "Twake.ai: When the Sovereign Digital Workspace Becomes Agentic",
+      "type": "Workshop",
+      "date": "2026-12-01",
+      "start": "15:00",
+      "end": "15:55",
+      "rooms": [
+        "Aubépine 7"
+      ],
+      "conferences": [
+        "Digital Resilience Europe"
+      ],
+      "tracks": [
+        "Workshops"
+      ],
+      "speakers": [
+        {
+          "name": "Michel-Marie Maudet",
+          "jobtitle": "Facilitateur et animateur",
+          "company": "Linagora"
+        }
+      ],
+      "description": "<p>For last years, the &quot;European alternative to the US digital workplace&quot; was a slide in a presentation, not a product you could install. That has changed.</p>\n<p>Twake.ai is an open source, AI-first collaborative suite: mail, chat, drive, documents and meetings. It now runs in production at a scale that answers the question. In France, ANFSI uses it for the internal security forces. The governments of Mauritius and Mongolia have adopted it as national infrastructure. And through LINAGORA's open source framework agreement with CANUT, every French local authority, health service, school can now order it and migrate through a standard public purchasing channel. This removes the procurement barrier that stopped most sovereignty projects before they even started.</p>\n<p>The second half of the talk looks forward. We are making Twake.ai agentic. Agents work across mail, documents, tasks and business systems inside the customer's own tenant, under the organization's own rules, on European models. This is not one more AI assistant in your inbox. It is a move from the augmented user to the orchestrated organization, and it is the first time a sovereign stack can lead instead of follow.</p>\n<p>I will share real numbers, real limits, and what we provide today to our customers.</p>"
     },
     {
       "id": "3deea129-5afe-48d1-949d-f86d45350521",
@@ -3714,6 +3758,31 @@
       "description": "<p>The Clinical Practice Research Datalink (CPRD) provisions anonymized clinical data to research institutes and companies worldwide via its electronic Research Application Portal. Because of the sensitive nature of primary care data and linked datasets, every research application undergoes a rigorous, multi-stage review process involving administrative screening, Information Governance, lay reviewers, and subject-matter experts.</p>\n<p>This case study explores how we integrated a standalone &quot;&quot;AI Reviewer Service&quot;&quot; into the  Drupal portal to augment this highly complex, human-in-the-loop workflow.</p>\n<p>By building an API-first bridge between our Drupal platform and an Node.js AI service powered by the AI SDK, we created an intelligent assistant capable of validating incoming research applications. The AI evaluates applications against strict domain constraints.</p>\n<p>In this session, we will share the practical reality of making open-source AI integration work in a highly regulated environment. We will cover:</p>\n<p>APIs for AI : How we structured and served complex Drupal application data (including multi-study licenses, dataset requests, and protocol details) to an external AI agent.</p>\n<p>Human-in-the-Loop Workflows : The UX of integrating AI inside the CMS so that it assists, rather than replaces, the human review hierarchy.</p>\n<p>Structuring Domain Knowledge : Techniques for grounding the LLM in complex business logic, such as CPRD's strict rules around data usage, datasets.</p>\n<p>Governance &amp; Trust : How we ensure AI-assisted outputs remain transparent and trustworthy in the context of healthcare data provisioning.</p>"
     },
     {
+      "id": "168f1745-52c2-450c-9bdc-01ec18327809",
+      "title": "AI Edge for the AI Age: Streaming Data for Robots and Drones",
+      "type": "Talk",
+      "date": "2026-12-01",
+      "start": "15:30",
+      "end": "15:55",
+      "rooms": [
+        "Baobab 3"
+      ],
+      "conferences": [
+        "GenerationAI"
+      ],
+      "tracks": [
+        "Physical AI, Network and Robotics"
+      ],
+      "speakers": [
+        {
+          "name": "Jean-Baptiste Kempf",
+          "jobtitle": "President, VideoLAN / CEO",
+          "company": "Kyber / Tech Fellow Scaleway"
+        }
+      ],
+      "description": ""
+    },
+    {
       "id": "ad7c5f4d-c023-43e4-970a-e55f23788b9d",
       "title": "Arazzo: Turning Business Workflows into Agent Capabilities via MCP and Beyond",
       "type": "Talk",
@@ -3750,7 +3819,7 @@
         "GenerationAI"
       ],
       "tracks": [
-        "Open & Sovereign European Models"
+        "Open European Models"
       ],
       "speakers": [
         {
@@ -3819,7 +3888,7 @@
         {
           "name": "Samir Akarioh",
           "jobtitle": "Developer Advocate",
-          "company": "Gatling"
+          "company": "Scalingo"
         }
       ],
       "description": ""
@@ -3845,29 +3914,6 @@
           "name": "Steeve Morin",
           "jobtitle": "ZML",
           "company": "CEO"
-        }
-      ],
-      "description": ""
-    },
-    {
-      "id": "4620a17f-769b-4285-9a34-01132a059aef",
-      "title": "TBA",
-      "type": "Talk",
-      "date": "2026-12-01",
-      "start": "15:30",
-      "end": "15:55",
-      "rooms": [
-        "Baobab 3"
-      ],
-      "conferences": [],
-      "tracks": [
-        "AI Agents in Production"
-      ],
-      "speakers": [
-        {
-          "name": "Stanislas Polu",
-          "jobtitle": "Co-founder & CTO",
-          "company": "Dust"
         }
       ],
       "description": ""
@@ -3985,34 +4031,6 @@
       "tracks": [],
       "speakers": [],
       "description": "<p>What worked, what didn't… how to improve this event?</p>"
-    },
-    {
-      "id": "5cbf7aa2-4536-4861-b019-7ad51ba11d75",
-      "title": "AI Agents, Healthcare, and Data Anonymization",
-      "type": "Talk",
-      "date": "2026-12-01",
-      "start": "16:30",
-      "end": "16:55",
-      "rooms": [
-        "Aubépine 2"
-      ],
-      "conferences": [
-        "Apidays"
-      ],
-      "tracks": [],
-      "speakers": [
-        {
-          "name": "Victor Carraz",
-          "jobtitle": "Managing Partner and Co-Founder",
-          "company": "ITSharkz"
-        },
-        {
-          "name": "Kamil Kostrzewski",
-          "jobtitle": "CTO & Co-Founder",
-          "company": "ITSharkz"
-        }
-      ],
-      "description": ""
     },
     {
       "id": "3c1cf777-8f76-47ee-b3c9-e4bf94a15203",
@@ -4242,6 +4260,34 @@
       "description": "<p>In January 2026, Aleph Alpha’s research team started building a new training pipeline. Nine months later we released Kolibri, a mixture-of-experts model with 78B parameters, 3.5B of them active per token, pre-trained from scratch and published under Apache 2.0 with a 189-page technical report. We had a fraction of the compute the strongest labs have, so how fast we could iterate decided the result. This talk walks through the decisions that shaped the model and what we learned. It covers what didn’t work as well.</p>"
     },
     {
+      "id": "5cbf7aa2-4536-4861-b019-7ad51ba11d75",
+      "title": "Your Business Runs on Documents AI Isn’t Allowed to Read. Unlock Them in 3 Steps.",
+      "type": "Talk",
+      "date": "2026-12-01",
+      "start": "16:30",
+      "end": "16:55",
+      "rooms": [
+        "Aubépine 2"
+      ],
+      "conferences": [
+        "Apidays"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Victor Carraz",
+          "jobtitle": "Managing Partner and Co-Founder",
+          "company": "ITSharkz"
+        },
+        {
+          "name": "Kamil Kostrzewski",
+          "jobtitle": "CTO & Co-Founder",
+          "company": "ITSharkz"
+        }
+      ],
+      "description": "<p>AI writes code faster than teams review it, leaking API keys and customer data. Discover where data leaks in vibe coding and get a practical checklist to cut the risk - no bans or scaremongering.</p>"
+    },
+    {
       "id": "45d52661-752f-41f7-ab73-5e2b2f456ab4",
       "title": "Impact social de l'IA dans les entreprises & IA agentique qui transforme la manière dont on travaille",
       "type": "Panel discussion",
@@ -4328,31 +4374,6 @@
         }
       ],
       "description": ""
-    },
-    {
-      "id": "eb046f97-e7cb-47ce-8dd4-bfb399a8460a",
-      "title": "Twake.ai: When the Sovereign Digital Workspace Becomes Agentic",
-      "type": "Workshop",
-      "date": "2026-12-01",
-      "start": "16:30",
-      "end": "17:25",
-      "rooms": [
-        "Aubépine 4"
-      ],
-      "conferences": [
-        "Digital Resilience Europe"
-      ],
-      "tracks": [
-        "Workshops"
-      ],
-      "speakers": [
-        {
-          "name": "Michel-Marie Maudet",
-          "jobtitle": "Facilitateur et animateur",
-          "company": "Linagora"
-        }
-      ],
-      "description": "<p>For last years, the &quot;European alternative to the US digital workplace&quot; was a slide in a presentation, not a product you could install. That has changed.</p>\n<p>Twake.ai is an open source, AI-first collaborative suite: mail, chat, drive, documents and meetings. It now runs in production at a scale that answers the question. In France, ANFSI uses it for the internal security forces. The governments of Mauritius and Mongolia have adopted it as national infrastructure. And through LINAGORA's open source framework agreement with CANUT, every French local authority, health service, school can now order it and migrate through a standard public purchasing channel. This removes the procurement barrier that stopped most sovereignty projects before they even started.</p>\n<p>The second half of the talk looks forward. We are making Twake.ai agentic. Agents work across mail, documents, tasks and business systems inside the customer's own tenant, under the organization's own rules, on European models. This is not one more AI assistant in your inbox. It is a move from the augmented user to the orchestrated organization, and it is the first time a sovereign stack can lead instead of follow.</p>\n<p>I will share real numbers, real limits, and what we provide today to our customers.</p>"
     },
     {
       "id": "7372a680-032c-4e66-98f5-469af29f2ba6",
@@ -4741,6 +4762,35 @@
       "description": "<p>When you're facing a difficult decision, navigating a career change or trying to take your next step, who do you turn to?</p>\n<p>We often hear about the importance of finding a mentor, working with a coach or building a strong professional network. But knowing what kind of support you need, where to find it and how to ask can be unclear.</p>\n<p>Join us for an interactive breakfast exploring how we find guidance and support throughout our careers. Through facilitated roundtable conversations, we'll share experiences, discuss what holds us back from asking for help and explore how different relationships can help us move forward.</p>\n<p>Whatever stage you are at now, whether you are a mentor, mentee or unsure whether you need a support. Come with your experiences, questions and curiosity. Leave with fresh perspectives, practical ideas for finding the support you need and new connections who might just become part of your own support network.</p>\n<p>Everyone attending FOST Paris is welcome, regardless of gender.</p>"
     },
     {
+      "id": "810b0f95-eff3-4f1b-b0c8-069b16010e3c",
+      "title": "Opening DRE et BIS",
+      "type": "Opening remarks",
+      "date": "2026-12-02",
+      "start": "09:15",
+      "end": "09:20",
+      "rooms": [
+        "Dragonnier 3"
+      ],
+      "conferences": [
+        "Build It Summit Paris 2026",
+        "Digital Resilience Europe"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Cedric Giorgi",
+          "jobtitle": "Head of Content",
+          "company": "Build It Summit"
+        },
+        {
+          "name": "Mehdi Medjaoui",
+          "jobtitle": "Author of Continuous API Management",
+          "company": "Founder and Chairman of Apidays Conferences"
+        }
+      ],
+      "description": ""
+    },
+    {
       "id": "a45b4ba2-98d0-48d6-ae12-fb37a669aa35",
       "title": "Opening Session",
       "type": "Opening remarks",
@@ -4811,35 +4861,6 @@
       "description": ""
     },
     {
-      "id": "810b0f95-eff3-4f1b-b0c8-069b16010e3c",
-      "title": "Opening DRE et BIS",
-      "type": "Opening remarks",
-      "date": "2026-12-02",
-      "start": "09:15",
-      "end": "09:40",
-      "rooms": [
-        "Dragonnier 3"
-      ],
-      "conferences": [
-        "Build It Summit Paris 2026",
-        "Digital Resilience Europe"
-      ],
-      "tracks": [],
-      "speakers": [
-        {
-          "name": "Cedric Giorgi",
-          "jobtitle": "Head of Content",
-          "company": "Build It Summit"
-        },
-        {
-          "name": "Mehdi Medjaoui",
-          "jobtitle": "Author of Continuous API Management",
-          "company": "Founder and Chairman of Apidays Conferences"
-        }
-      ],
-      "description": ""
-    },
-    {
       "id": "79819ae6-cce8-4498-ae4d-69b99665e2ef",
       "title": "Builders mentoring",
       "type": "Talk",
@@ -4858,6 +4879,30 @@
           "name": "Fabien Rault",
           "jobtitle": "n8n Ambassador",
           "company": "n8n"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "56f959c3-ebe9-4393-b5ee-ab7aae0404d6",
+      "title": "TBA",
+      "type": "Talk",
+      "date": "2026-12-02",
+      "start": "09:20",
+      "end": "09:45",
+      "rooms": [
+        "Dragonnier 3"
+      ],
+      "conferences": [
+        "Digital Resilience Europe",
+        "Build It Summit Paris 2026"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Tariq Krim",
+          "jobtitle": "Founder",
+          "company": "Cybenetica.fr"
         }
       ],
       "description": ""
@@ -5300,7 +5345,7 @@
     },
     {
       "id": "c346eb33-8e35-4614-a732-b78eae544a56",
-      "title": "TBA",
+      "title": "L'accélération et l'industrialisation des cyber attaques autonomes par IA",
       "type": "Keynote",
       "date": "2026-12-02",
       "start": "10:30",
@@ -5467,6 +5512,34 @@
       ],
       "tracks": [],
       "speakers": [],
+      "description": ""
+    },
+    {
+      "id": "24b179c7-a165-4e84-bfe8-dc3a72db7716",
+      "title": "Welcoming address",
+      "type": "Opening remarks",
+      "date": "2026-12-02",
+      "start": "11:15",
+      "end": "11:20",
+      "rooms": [
+        "Amphitheater"
+      ],
+      "conferences": [
+        "Cloud Native AI Summit"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Chris Mazur",
+          "jobtitle": "Ambassador",
+          "company": "Cloud Native Computing Foundation"
+        },
+        {
+          "name": "Mehdi Medjaoui",
+          "jobtitle": "Author of Continuous API Management",
+          "company": "Founder and Chairman of Apidays Conferences"
+        }
+      ],
       "description": ""
     },
     {
@@ -6239,17 +6312,17 @@
       ],
       "speakers": [
         {
-          "name": "Anuj Kumar",
-          "jobtitle": "Principal Product Manager",
-          "company": "Axway"
-        },
-        {
           "name": "Jose Monteagudo",
           "jobtitle": "Principal Pre-Sales Architect",
           "company": "Axway"
+        },
+        {
+          "name": "Laurent Marchal",
+          "jobtitle": "Principal Pre Sales Architect",
+          "company": "Axway"
         }
       ],
-      "description": "<p>Agentic AI is driving a surge in interactions across LLMs, APIs, and tools. The challenge is no longer simply accessing AI, but knowing who uses what, at what cost, and under which rules.</p>"
+      "description": "<p>From LLM usage and spend to security and sovereignty: the controls enterprises need to move AI agents into production.</p>"
     },
     {
       "id": "fbecd192-7690-4cae-b594-9922228df1f3",
@@ -6348,6 +6421,31 @@
       "description": "<p>AI agents do not behave like traditional API clients. They choose tools dynamically, call models and services in changing sequences, carry context across steps, and can retry or act autonomously. That makes the familiar request-by-request controls of an API gateway necessary, but no longer sufficient.</p>\n<p>This talk explores the shift from managing API traffic to governing agent execution. We'll look at the identity, authorization, tool discovery, context, reliability, cost, and observability challenges that emerge when agents work across LLMs, MCP servers, APIs, and other agents. Then, through a live Banking investigation demo, we'll compare a direct agent integration with a gateway-mediated path to show what changes when control is applied across the whole execution flow, not just at a single endpoint.</p>"
     },
     {
+      "id": "3859981f-f0ce-48b7-bfa4-a7148c22faf7",
+      "title": "GENCI a public HPC/AI/QC infrastructure serving science and innovation in Europe",
+      "type": "Talk",
+      "date": "2026-12-02",
+      "start": "11:50",
+      "end": "12:15",
+      "rooms": [
+        "Acacia 1/2"
+      ],
+      "conferences": [
+        "GenerationAI"
+      ],
+      "tracks": [
+        "Vision & Multimodal AI"
+      ],
+      "speakers": [
+        {
+          "name": "Stéphane Requena",
+          "jobtitle": "CTO",
+          "company": "GENCI"
+        }
+      ],
+      "description": "<p>Created close to 20 years ago GENCI has the mission to make available as a public service, free access to supercomputers, quantum computers, storage and user support to researchers from academia and industry, in France and in Europe.\nThis presentation will highlight recent developments of GENCI including Jean Zay, the more sought AI supercomputer in Europe for research, Alice Recoque the 2nd Exascale system in Europe, quantum computers and developments on sovereign AI Co Scientists and AI technologies</p>"
+    },
+    {
       "id": "61dc54c2-f641-44b5-a400-9d2a98ac816a",
       "title": "JSON Schema Standardization and Versions",
       "type": "Talk",
@@ -6435,31 +6533,6 @@
           "name": "Jean-Philippe Poisson",
           "jobtitle": "Directeur Général, Produit et Technologie",
           "company": "HLBRT"
-        }
-      ],
-      "description": ""
-    },
-    {
-      "id": "3859981f-f0ce-48b7-bfa4-a7148c22faf7",
-      "title": "TBA",
-      "type": "Talk",
-      "date": "2026-12-02",
-      "start": "11:50",
-      "end": "12:15",
-      "rooms": [
-        "Acacia 1/2"
-      ],
-      "conferences": [
-        "GenerationAI"
-      ],
-      "tracks": [
-        "Vision & Multimodal AI"
-      ],
-      "speakers": [
-        {
-          "name": "Stéphane Requena",
-          "jobtitle": "CTO",
-          "company": "GENCI"
         }
       ],
       "description": ""
@@ -7150,6 +7223,29 @@
       "description": "<p>What changed in the org chart, the hiring bar, and the weekly rituals.</p>"
     },
     {
+      "id": "481193b6-90bd-42c7-9678-9011680388c4",
+      "title": "AI Potluck Demo by Current AI",
+      "type": "Talk",
+      "date": "2026-12-02",
+      "start": "12:45",
+      "end": "12:50",
+      "rooms": [
+        "Acacia 4"
+      ],
+      "conferences": [
+        "OpenLLM Europe"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Tidhar Wald",
+          "jobtitle": "VP Government Affairs and Partnerships",
+          "company": "Current AI"
+        }
+      ],
+      "description": ""
+    },
+    {
       "id": "233bcf2f-c65a-4151-af90-088e7ef525fd",
       "title": "Lunch Break / Networking / Expo",
       "type": "Break",
@@ -7271,31 +7367,6 @@
       "description": "<p>Join FOST Analyst Mark Boyd and Markus Müller, Global Field CTO at Boomi, as they discuss the results of the API Economy in the Age of AI: State of the Market Report (2026 Edition). They will cover key trends, forward-looking predictions, and practical insights on how API practitioners can prepare to build their customer base and adapt their infrastructure for 2027.</p>"
     },
     {
-      "id": "61e471b8-0b23-4fce-805c-a08d0cc5a055",
-      "title": "Can Harness Engineering make Smaller AI Models Viable?",
-      "type": "Talk",
-      "date": "2026-12-02",
-      "start": "14:00",
-      "end": "14:25",
-      "rooms": [
-        "Aubépine 1"
-      ],
-      "conferences": [
-        "Apidays"
-      ],
-      "tracks": [
-        "AI Gateways and Orchestration"
-      ],
-      "speakers": [
-        {
-          "name": "Naresh Jain",
-          "jobtitle": "Founder & CEO",
-          "company": "Specmatic"
-        }
-      ],
-      "description": "<p>As coding agents become more capable, the default response to difficult engineering tasks is often to reach for a more powerful model. But what if we could improve the environment around the model instead?</p>\n<p>I built a behaviour harness for AI-driven API development using OpenAPI and AsyncAPI specifications, representative examples, contract testing, service virtualisation, API coverage, and deterministic feedback. The idea was simple: give a coding agent better guidance and faster feedback, and it should complete the task with fewer tokens and at lower cost.</p>\n<p>The experiment produced the opposite result.</p>\n<p>With a frontier coding model, the harness made the task nearly five times more expensive and twice as slow, with little difference in the final outcome. The model was already capable enough to solve the problem, and the harness became overhead.</p>\n<p>But when I repeated the experiment with a substantially smaller model, the result changed. Without the harness, the model could not successfully complete the task. With the harness, it could, at approximately one-eighth the token cost of the unharnessed frontier model, although with some reduction in code quality.</p>\n<p>This talk walks through the experiment, including the API development task, behaviour harness, isolated test environments, evaluation criteria, results, and limitations. More importantly, it explores a different way of thinking about AI-assisted software development: perhaps the purpose of a good harness isn’t to make an expensive model cheaper, but to make an expensive model unnecessary.</p>"
-    },
-    {
       "id": "0e19bdd4-0e16-427b-9089-57cb9b8ad619",
       "title": "From European Cloud to a digitally Resilient Europe",
       "type": "Talk",
@@ -7347,6 +7418,29 @@
         }
       ],
       "description": "<p>As software organizations face increasing pressure to optimize costs without compromising reliability, scalability, or developer experience, the choice between SaaS platforms and open-source alternatives is becoming more strategic than ever.</p>\n<p>In this talk, we share our journey of re-evaluating API gateway technology in response to changing cost considerations and the evolving open-source ecosystem. Starting with a SaaS-based gateway, moving to Kong OSS, and exploring Apache APISIX through a proof of concept, we will discuss the factors that shaped our decisions, the trade-offs we encountered, and the lessons learned along the way.</p>\n<p>The discussion goes beyond comparing gateway products. We will explore how to balance licensing and operational costs, engineering effort, platform capabilities, community contributions, long-term maintainability, and the risks of vendor dependency. We will also examine why adopting open source is not simply about reducing licensing costs, but about understanding the total cost of ownership and building the expertise needed to operate and evolve a platform sustainably.</p>\n<p>Our goal is to share a practical, experience-driven perspective on making technology choices in a cost-conscious environment—helping teams assess when open source makes sense, what trade-offs to expect, and how to make informed decisions without treating any single technology as a one-size-fits-all solution.</p>"
+    },
+    {
+      "id": "5f13865e-eea7-4016-a584-f93802eb7d7a",
+      "title": "From Windows to a desktop you own",
+      "type": "Talk",
+      "date": "2026-12-02",
+      "start": "14:00",
+      "end": "14:25",
+      "rooms": [
+        "Dattier 3"
+      ],
+      "conferences": [
+        "Digital Resilience Europe"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Ryan Lahfa",
+          "jobtitle": "Senior principal engineer",
+          "company": "Omnicité"
+        }
+      ],
+      "description": ""
     },
     {
       "id": "5160adc0-345a-4bf1-9a2d-fe0252ce8c1b",
@@ -7448,6 +7542,36 @@
         }
       ],
       "description": ""
+    },
+    {
+      "id": "d91fa097-edde-4934-a68d-600b1768ee54",
+      "title": "The Business of AI: Scaling Agents, Tokenomics, and Trust",
+      "type": "Talk",
+      "date": "2026-12-02",
+      "start": "14:00",
+      "end": "14:25",
+      "rooms": [
+        "Aubépine 1"
+      ],
+      "conferences": [
+        "Apidays"
+      ],
+      "tracks": [
+        "AI Gateways and Orchestration"
+      ],
+      "speakers": [
+        {
+          "name": "Christophe Lalevée",
+          "jobtitle": "Apigee Customer Engineering Lead",
+          "company": "Google Apigee"
+        },
+        {
+          "name": "Kevin Bouwmeester",
+          "jobtitle": "Head of Customer Engineering : Apigee",
+          "company": "Google Cloud"
+        }
+      ],
+      "description": "<p>As enterprises scale AI into production, more agents mean higher costs—creating a pressing need to know, trust, and enforce your token governance. Without centralized control, organizations face runaway spend, shadow AI, and fragmented model access. In this session, we explore how Apigee acts as an AI Gateway to deliver cost visibility across teams, trusted guardrails against unsafe or rogue agent behavior, and automated budget and routing controls across multiple models. We will then bring it to life with Prompt the Stage, a live interactive game against real token budgets and a ticking clock.</p>"
     },
     {
       "id": "a783f5ee-1068-4642-814b-d810e73127c9",
@@ -8381,6 +8505,29 @@
       "description": ""
     },
     {
+      "id": "84dd770f-7609-4218-b2ee-a0507bb7aedc",
+      "title": "European Commission’s vision for Open Source and Tech Sovereignty",
+      "type": "Talk",
+      "date": "2026-12-02",
+      "start": "15:00",
+      "end": "15:10",
+      "rooms": [
+        "Dattier 2"
+      ],
+      "conferences": [
+        "Digital Resilience Europe"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Martina Barbero",
+          "jobtitle": "Policy Officer",
+          "company": "DG Connect European Commission"
+        }
+      ],
+      "description": "<p>In June 2026, the European Commission released the first ever EU wide Open Source Strategy (OSS), underlining the central role of open source in achieving EU technological sovereignty – defined as its capacity to develop, control and scale the technologies underpinning its economy and society, while remaining open to cooperation. Against the backdrop of the EU Tech Sovereignty Package, the Open Source Strategy will be presented and its full lifecycle approach with the ambition to grow the entire EU open source ecosystem: developing and adopting building blocks, scaling European businesses, strengthening stewardship, securing and maintaining critical software, and mobilising public administrations. We are now six months in the implementation of the Strategy. This talk will highlight some initial achievements and lay down the ongoing and future work and how the community can get involved.</p>"
+    },
+    {
       "id": "e95778a3-8d49-4176-8930-e00d38608d01",
       "title": "You have AI. Why are your teams still copy-pasting and switching apps?",
       "type": "Talk",
@@ -8679,29 +8826,6 @@
       "description": "<p>Nearly every digital service today runs on virtualization, yet many IT teams standardized on a single hypervisor, cloud or vendor to keep things simple. Recent licensing changes showed the price: when that one supplier changes the rules, there's no fallback and no quick exit. Based on real migrations away from proprietary virtualization, this talk explains why infrastructure diversity is worth the effort, why swapping one dominant platform for another just recreates the same risk, and what makes moving between platforms realistic.</p>"
     },
     {
-      "id": "359221e0-57b5-4576-964d-c46b63c3f3a6",
-      "title": "SuperStack Coalition: gathering forces towards sovereignty and scale",
-      "type": "Talk",
-      "date": "2026-12-02",
-      "start": "15:00",
-      "end": "15:25",
-      "rooms": [
-        "Dattier 2"
-      ],
-      "conferences": [
-        "Digital Resilience Europe"
-      ],
-      "tracks": [],
-      "speakers": [
-        {
-          "name": "Niko Bonnieure",
-          "jobtitle": "Co-founder / Lead engineer & President",
-          "company": "SuperStack coalition / NextGraph"
-        }
-      ],
-      "description": "<p>The SuperStack coalition gathers 70 partners from the best open source projects in Europe, towards a Sovereign Universal Platform for European Resilience (SUPER).</p>\n<p>3 millions Open Source developers in Europe, numerous SMEs, a vibrant community that gathers every year at FOSDEM, the largest developer event in the world. Still, open source solutions struggle to compete with Big Tech products and platforms. Fragmentation of our effort has been identified by many as the cause of poor adoption. End-users need a coherent and integrated offering, and so far, FOSS projects haven't been able to deliver fully. Yet, we do have almost all the parts ready, but what is missing is composing all those parts into a coherent whole.</p>\n<p>Collaboration and even convergence, uniting forces across projects, finding complementarity and synergies, has been discussed for many years. Now we have formed a coalition that will support those efforts.</p>\n<p>We were recently awarded a considerable grant of 29 M€ from the Open Internet Stack initiative of the European Commission DG Connect, for the next 3 years, and work has just started on the 1st of December.</p>\n<p>The coalition is composed of 3 consortia, each dedicated to one aspect of the stack, and all complementary one to another :</p>\n<ul>\n<li>SuperFOSS: OSes for mobile and desktop, firmware, platform services and protocols, OEM / hardware.</li>\n<li>SuperAPPS: decentralized apps like Element, Conversations, app stores, identity, ELFA/NextGraph, Mastodon, Discourse, ERP, Professional social apps, virtual worlds</li>\n<li>SuperSAFE: Rust, security, Forges, networks (mesh, VPN, PQC, multipath, edge, secure update), CRA &amp; compliance, web engine and dev frameworks and infratructure</li>\n</ul>\n<p>A sub-granting program will run throughout the 3 years with a budget of 3.5 M€ to be claimed by contributors from the community, who wish to enrich the existing solutions.</p>\n<p>During this presentation we will dive into the vision, the goals, the challenges facing us, and give an overview of the expected outcomes of this comprehensive effort towards a sovereign stack made in Europe, based on open source, and ready for scale.</p>\n<p>I will be joined by the co-leads Rik Viergever of E Foundation  and Daniel Thompson-Yvetot of CrabNebula/Tauri who are the coordinators of the consortium.</p>"
-    },
-    {
       "id": "7b047d2f-3945-4ef0-9caa-a86f140e160a",
       "title": "Frictionless & Fully Secure: The Power of Mobile Network APIs",
       "type": "Panel discussion",
@@ -8800,6 +8924,29 @@
         }
       ],
       "description": "<p>Currently, few global players dominate the data center market, mostly US-based, incompatible with EU law. With increasing demand for AI, they build massive facilities at the cost of water, energy and soil sealing. Switching to European providers helps, but will dependencies stay and only the name changes? What really matters is who owns the land and the building. Rarely, giant data centers are needed, and the ideal business model is a cooperative. Why doesn't it exist yet? We'll sketch a secure, eco-friendly cooperative data center, and invite for discussion: What does it take to get started?</p>"
+    },
+    {
+      "id": "359221e0-57b5-4576-964d-c46b63c3f3a6",
+      "title": "SuperStack Coalition: gathering forces towards sovereignty and scale",
+      "type": "Talk",
+      "date": "2026-12-02",
+      "start": "15:10",
+      "end": "15:25",
+      "rooms": [
+        "Dattier 2"
+      ],
+      "conferences": [
+        "Digital Resilience Europe"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Niko Bonnieure",
+          "jobtitle": "Co-founder / Lead engineer & President",
+          "company": "SuperStack coalition / NextGraph"
+        }
+      ],
+      "description": "<p>The SuperStack coalition gathers 70 partners from the best open source projects in Europe, towards a Sovereign Universal Platform for European Resilience (SUPER).</p>\n<p>3 millions Open Source developers in Europe, numerous SMEs, a vibrant community that gathers every year at FOSDEM, the largest developer event in the world. Still, open source solutions struggle to compete with Big Tech products and platforms. Fragmentation of our effort has been identified by many as the cause of poor adoption. End-users need a coherent and integrated offering, and so far, FOSS projects haven't been able to deliver fully. Yet, we do have almost all the parts ready, but what is missing is composing all those parts into a coherent whole.</p>\n<p>Collaboration and even convergence, uniting forces across projects, finding complementarity and synergies, has been discussed for many years. Now we have formed a coalition that will support those efforts.</p>\n<p>We were recently awarded a considerable grant of 29 M€ from the Open Internet Stack initiative of the European Commission DG Connect, for the next 3 years, and work has just started on the 1st of December.</p>\n<p>The coalition is composed of 3 consortia, each dedicated to one aspect of the stack, and all complementary one to another :</p>\n<ul>\n<li>SuperFOSS: OSes for mobile and desktop, firmware, platform services and protocols, OEM / hardware.</li>\n<li>SuperAPPS: decentralized apps like Element, Conversations, app stores, identity, ELFA/NextGraph, Mastodon, Discourse, ERP, Professional social apps, virtual worlds</li>\n<li>SuperSAFE: Rust, security, Forges, networks (mesh, VPN, PQC, multipath, edge, secure update), CRA &amp; compliance, web engine and dev frameworks and infratructure</li>\n</ul>\n<p>A sub-granting program will run throughout the 3 years with a budget of 3.5 M€ to be claimed by contributors from the community, who wish to enrich the existing solutions.</p>\n<p>During this presentation we will dive into the vision, the goals, the challenges facing us, and give an overview of the expected outcomes of this comprehensive effort towards a sovereign stack made in Europe, based on open source, and ready for scale.</p>\n<p>I will be joined by the co-leads Rik Viergever of E Foundation  and Daniel Thompson-Yvetot of CrabNebula/Tauri who are the coordinators of the consortium.</p>"
     },
     {
       "id": "3e8660be-2b92-40c6-81e1-073636609921",
@@ -9015,6 +9162,29 @@
       "description": "<p>In the world of information, financial data plays a major role in decision-making for investors as well as companies. This data spans a wide array of sectors and financial instruments, including stock data, income statements, P&amp;L statements, and so on.</p>\n<p>Although APIs are the backbone for providing the data foundation, the real challenge comes when they are not in a standardized format that adheres to your specific needs and requirements for your project. In the case of financial applications, this becomes even more critical/complex as the data spans a wide array of types; from numbers and figures to news and images.</p>\n<p>This raises the question of how we can effectively consolidate this into a single visual platform capable of providing a holistic solution to consumers while keeping it vendor-agnostic.</p>\n<p>In this talk, we will present a single unified market analytics dashboard using APIs with Grafana that can be leveraged by consumers and investors for data-driven decision making. This will be based on open-source tools that will provide an alternative to the costly solutions present in the industry while also avoiding vendor lock-in.</p>\n<p>After this session, the audience will have a better understanding of the possibilities and advantages that open-source tools provide in the financial sector and how they can be used with their APIs to create a scalable and robust financial research platform.</p>"
     },
     {
+      "id": "d4d41729-2ba1-494e-871a-04ddf5d7c77f",
+      "title": "Building public AI on open source: a shared policy agenda for European AI builders",
+      "type": "Talk",
+      "date": "2026-12-02",
+      "start": "15:30",
+      "end": "15:55",
+      "rooms": [
+        "Acacia 4"
+      ],
+      "conferences": [
+        "OpenLLM Europe"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Alek Tarkowski",
+          "jobtitle": "Director of Strategy",
+          "company": "Open Future"
+        }
+      ],
+      "description": "<p>AI systems built and governed in the public interest, including a state-of-the-art open model and the data commons it depends on. Open source AI developers in Europe have already produced much of the foundation, but their models are underused, underfunded and largely missing from EU policy. This talk places public AI within the broader challenge of sustaining Europe's information ecosystem. AI systems are trained on knowledge produced by publishers, cultural institutions, open communities and the public, while the economic value flows elsewhere and the sources that feed these systems are weakened. Public AI can reverse this dynamic, but only if three challenges are addressed: building and maintaining shared data and model infrastructure, deciding who pays for the commons, for instance through an AI levy, and creating demand from public institutions and other users. The talk will end with a blueprint for a shared policy position that European open source AI developers could take into the debates of the coming years.</p>"
+    },
+    {
       "id": "81ccc6ef-f00b-490a-b5ae-230ef0057e6f",
       "title": "Event Contracts Are Domain Decisions",
       "type": "Talk",
@@ -9221,29 +9391,6 @@
       "description": "<p>Public services cannot bet their AI on a single vendor. Prices change, models disappear with a few months' notice, and the rules on where data may live keep moving. Yet most AI projects are built around one provider, and changing it later means starting over.</p>\n<p>At Bayes Impact we took the opposite approach. We build an open source agent platform for public services, and we treat the model as a replaceable part. The same agents run on US commercial APIs and on open models (Mistral, Gemma, Qwen) that we serve with vLLM on our own GPUs in Europe. Changing the model is a configuration change, and we test the agents against each model before every switch.</p>\n<p>This talk shares what we learned:</p>\n<ul>\n<li>which layers of an AI service you must own to stay free to change models</li>\n<li>why you may not need the latest frontier model for an assistant that answers questions from your own documents</li>\n<li>what really changes when you switch, and how to measure it before your users see it</li>\n<li>the real cost of self-hosting open models on GPUs, compared with paying per token</li>\n<li>how to explain these choices to decision makers, lawyers and data protection officers</li>\n</ul>\n<p>The goal is a practical path to digital sovereignty for public organisations: open code, a free choice of model, and no lock-in.</p>"
     },
     {
-      "id": "d4d41729-2ba1-494e-871a-04ddf5d7c77f",
-      "title": "TBA",
-      "type": "Talk",
-      "date": "2026-12-02",
-      "start": "15:30",
-      "end": "15:55",
-      "rooms": [
-        "Acacia 4"
-      ],
-      "conferences": [
-        "OpenLLM Europe"
-      ],
-      "tracks": [],
-      "speakers": [
-        {
-          "name": "Alek Tarkowski",
-          "jobtitle": "Strategy Director",
-          "company": "Open Future"
-        }
-      ],
-      "description": ""
-    },
-    {
       "id": "9b6cdd06-8178-4520-ae28-e4388e34f77d",
       "title": "The AI Agent Era: From Coding to Orchestration",
       "type": "Talk",
@@ -9318,7 +9465,7 @@
     },
     {
       "id": "ef3cfee9-d6ae-4915-ac00-18fdf56de657",
-      "title": "Local inferences, local building",
+      "title": "Debunking misconceptions about local AI: what you can actually build locally vs. the “fast-food model” race",
       "type": "Talk",
       "date": "2026-12-02",
       "start": "15:35",
@@ -9332,8 +9479,8 @@
       "tracks": [],
       "speakers": [
         {
-          "name": "Barbara Delacroix",
-          "jobtitle": "CEO and Co-founder",
+          "name": "Tom Lucas",
+          "jobtitle": "XAI Phd Student",
           "company": "Devana"
         }
       ],
@@ -9575,7 +9722,7 @@
           "company": "envite consulting GmbH"
         }
       ],
-      "description": "<p>The green software tool ecosystem is growing fast, and it’s hard to know which tool fits which system. That’s why the &quot;Bundesverband Green Software&quot; (a German association) decided to create an open tool landscape: landscape.bundesverband-green-software.de</p>\n<p>As someone involved in creating and maintaining it, I’ll give an overview, show how to find the right tool for your needs (which metrics, which lifecycle phase, how accurate?), and make room to share your own tool experiences. We’ll also preview plans to extend the landscape beyond software, e.g. data centers and AI providers.</p>"
+      "description": "<p>A workshop that brings together all relevant stakeholders of a company in order to define where to start a Green Software journey: What measures are most relevant in this company? Who is needed to make them happen?</p>\n<p>The result is a matrix with 4 quadrants: easy/difficult, low/high impact. Starting points are the easy ones with high impact.</p>"
     },
     {
       "id": "f298be44-5e5a-450e-9fa9-1a14cd9a1078",
@@ -10781,7 +10928,7 @@
       "tracks": [],
       "speakers": [
         {
-          "name": "Paloma Oliviera",
+          "name": "Paloma Oliveira",
           "jobtitle": "Technologist",
           "company": "Sovereign Tech Agency"
         }
@@ -11848,8 +11995,8 @@
       "tracks": [],
       "speakers": [
         {
-          "name": "Marvin Wissfeld",
-          "jobtitle": "Software engineer",
+          "name": "Marvin Wißfeld",
+          "jobtitle": "Software Engineer",
           "company": "microG"
         }
       ],
@@ -12865,31 +13012,6 @@
       "description": "<p>Building AI is just the start—knowing how it performs and what it costs is the real challenge. Join us for a practical look at how business and tech teams gain visibility into AI apps.</p>"
     },
     {
-      "id": "3bec2722-438e-4d5f-aa50-bd729db4cbe7",
-      "title": "Your Domain Model Is Your API Spec - and Your First Prompt",
-      "type": "Talk",
-      "date": "2026-12-03",
-      "start": "11:00",
-      "end": "11:25",
-      "rooms": [
-        "Aubépine 4"
-      ],
-      "conferences": [
-        "Apidays"
-      ],
-      "tracks": [
-        "Emerging API Best Practices"
-      ],
-      "speakers": [
-        {
-          "name": "Dr. Annegret Junker",
-          "jobtitle": "Chief Software Architect",
-          "company": "codecentric AG"
-        }
-      ],
-      "description": "<p>Most teams have now tried handing an LLM a vague description and asking for an API. The results are familiar: plausible-looking endpoints, invented fields, events that don't match anything real, and bugs that take hours to trace. The easy reaction is to blame the model. That's the wrong angle. LLMs don't produce wrong APIs because they're not capable — they produce wrong APIs because they have no access to your domain.\nThe fix is something API teams can already recognize: a precise specification. This talk shows that the collaborative modeling practices used to build shared understanding — Domain Storytelling and EventStorming — double as a remarkably good way to derive that specification, across both styles of API. EventStorming's command/event/policy structure maps almost one-to-one onto an API surface: commands become synchronous REST operations, domain events become asynchronous channels and messages, and policies become the orchestration and business rules that connect them. Bounded contexts become clean service and product boundaries. The result is a paired OpenAPI and AsyncAPI specification that is, in effect, a machine-readable domain model.\nUsing CookWithUs, a recipe-sharing platform modeled and built across three iterations, we walk a concrete pipeline: model the domain, derive the synchronous REST surface and the event-driven async surface together, and split both specs by bounded context. We show exactly what a well-formed spec gives an LLM — and exactly where generation breaks down when the spec is incomplete, ambiguous, or missing its events. We show how a sharper Ubiquitous Language produces a measurably better OpenAPI document, a cleaner set of AsyncAPI channels, and a frontend the model can generate without inventing a single field.\nThe central claim is simple: every naming decision, every event you make explicit, every scoping choice travels all the way into the generated code. A spec is only as good as the language behind it — and async APIs in particular punish vague language, because an event nobody named precisely is an event nobody can consume reliably. This is not a talk about replacing API designers with AI. It's about what happens when rigorous API specification meets a powerful new tool, and why the modeling work always comes first.</p>"
-    },
-    {
       "id": "63c504a3-4ada-4bc7-b03a-dbdf98fe6c70",
       "title": "Your Domain Model Is Your API Spec — and Your First Prompt",
       "type": "Talk",
@@ -13627,6 +13749,31 @@
       "description": "<p>The best enterprise use case for agents is not glamorous. It is the work every engineer agrees matters, every team deprioritizes, and every security review eventually drags back into the room.</p>\n<p>CVE remediation is the perfect example because the small-scale story is so seductive: bump the dependency, run CI, merge the PR and move on. That story collapses when you own thousands of repositories. Now the hard part is not the patch. It is finding the right artifact, proving the right fix, reconciling CI, containing the agent, and producing enough evidence and observability for people to trust the outcome.</p>\n<p>This talk is a production case study of PatchPilot, an agentic remediation platform built in a regulated industry. I will show how we moved from prototype to production with controller loops, remediation agents, CI reconciliation, approval boundaries, egress controls, observability, and metrics that proved whether the system was creating value or just burning tokens.</p>\n<p>The hard part was not getting an agent to open a pull request. The hard part was making it constrained enough for infosec and useful enough for engineers. This is the story of what failed, what changed, and why boring work might be the best place for agents to prove they belong.</p>"
     },
     {
+      "id": "61e471b8-0b23-4fce-805c-a08d0cc5a055",
+      "title": "Can Harness Engineering make Smaller AI Models Viable?",
+      "type": "Talk",
+      "date": "2026-12-03",
+      "start": "12:00",
+      "end": "12:25",
+      "rooms": [
+        "Aubépine 6"
+      ],
+      "conferences": [
+        "Apidays"
+      ],
+      "tracks": [
+        "API Lifecycle and Architecture"
+      ],
+      "speakers": [
+        {
+          "name": "Naresh Jain",
+          "jobtitle": "Founder & CEO",
+          "company": "Specmatic"
+        }
+      ],
+      "description": "<p>As coding agents become more capable, the default response to difficult engineering tasks is often to reach for a more powerful model. But what if we could improve the environment around the model instead?</p>\n<p>I built a behaviour harness for AI-driven API development using OpenAPI and AsyncAPI specifications, representative examples, contract testing, service virtualisation, API coverage, and deterministic feedback. The idea was simple: give a coding agent better guidance and faster feedback, and it should complete the task with fewer tokens and at lower cost.</p>\n<p>The experiment produced the opposite result.</p>\n<p>With a frontier coding model, the harness made the task nearly five times more expensive and twice as slow, with little difference in the final outcome. The model was already capable enough to solve the problem, and the harness became overhead.</p>\n<p>But when I repeated the experiment with a substantially smaller model, the result changed. Without the harness, the model could not successfully complete the task. With the harness, it could, at approximately one-eighth the token cost of the unharnessed frontier model, although with some reduction in code quality.</p>\n<p>This talk walks through the experiment, including the API development task, behaviour harness, isolated test environments, evaluation criteria, results, and limitations. More importantly, it explores a different way of thinking about AI-assisted software development: perhaps the purpose of a good harness isn’t to make an expensive model cheaper, but to make an expensive model unnecessary.</p>"
+    },
+    {
       "id": "0a1bc826-2ae1-43ae-8a94-f0515b4b9e9a",
       "title": "Context Is a Resource: How to Burn Fewer Tokens and Hit Zero Egress",
       "type": "Talk",
@@ -13832,6 +13979,23 @@
       "description": "<p>Most of us have copied pod logs, events or YAML into ChatGPT or Claude at some point, hoping to get to the root cause faster. It works, but it also means constantly switching tools, providing context, and potentially exposing information that should never leave the cluster.</p>\n<p>In this lightning talk, I’ll show how to bring an AI-powered Kubernetes agent into the cluster with kagent. Whether using a local model with Ollama or a hosted model like ChatGPT or Claude, kagent investigates issues using the cluster’s own context instead of relying on endless copy-pasting.</p>\n<p>We’ll also look at Human-in-the-Loop and Agent-to-Agent - two concepts that make AI useful without giving up control - and introduce Khook, which can automatically trigger AI investigations when something goes wrong in the cluster. Along the way, we’ll discuss where these approaches shine, where they don’t, and how they can help platform teams spend less time troubleshooting and more time delivering software.</p>"
     },
     {
+      "id": "452d802f-f6f6-4c09-93dd-ed4f5d21b63c",
+      "title": "Open discussion on open source",
+      "type": "Talk",
+      "date": "2026-12-03",
+      "start": "12:00",
+      "end": "12:25",
+      "rooms": [
+        "Aubépine 1"
+      ],
+      "conferences": [
+        "Europe API Conference"
+      ],
+      "tracks": [],
+      "speakers": [],
+      "description": ""
+    },
+    {
       "id": "1674499e-fdb1-4eb9-847d-961117cd99d7",
       "title": "Open source's answer to CRA compliance and vulnerability chaos",
       "type": "Talk",
@@ -13901,36 +14065,6 @@
         }
       ],
       "description": "<p>When AI does the easy work, humans get the hard parts. Automation removes repetitive tasks, but it also changes the skills humans need. As AI takes over coding, analysis, writing, and decision-making, we're increasingly left with ambiguity, exceptions, judgment, and responsibility.</p>\n<p>This talk explores what automation does to human cognition and expertise. What happens when we stop practicing skills because machines do them for us? Why do we trust automated answers? And as AI becomes better at producing answers, does human expertise become more or less valuable?</p>"
-    },
-    {
-      "id": "d91fa097-edde-4934-a68d-600b1768ee54",
-      "title": "The Business of AI: Scaling Agents, Tokenomics, and Trust",
-      "type": "Talk",
-      "date": "2026-12-03",
-      "start": "12:00",
-      "end": "12:25",
-      "rooms": [
-        "Aubépine 6"
-      ],
-      "conferences": [
-        "Apidays"
-      ],
-      "tracks": [
-        "API Lifecycle and Architecture"
-      ],
-      "speakers": [
-        {
-          "name": "Christophe Lalevée",
-          "jobtitle": "Apigee Customer Engineering Lead",
-          "company": "Google Apigee"
-        },
-        {
-          "name": "Kevin Bouwmeester",
-          "jobtitle": "Head of Customer Engineering : Apigee",
-          "company": "Google Cloud"
-        }
-      ],
-      "description": "<p>Scaling GenAI is hard due to costs, governance, and data safety. Join this session to see how Apigee's AI Gateway tackles these via Tokenomics (caching, rate limits) and model routing trust.</p>"
     },
     {
       "id": "155b9031-e192-480f-911c-887f3fb70577",
@@ -14007,8 +14141,8 @@
       "description": "<p>I've built two AI products, LaunchDocs and Query Trenches, one without writing the code myself. I'm a former healthcare professional turned application security trainer, working a full-time job, with an AI coding platform as my entire engineering team. It worked, until I needed to own what I had built. When I exported the code and audited it, most of what looked finished on screen wasn’t. Features half-wired, no scheduler, no way to delete user data, and AI calls quietly running through US servers despite my EU-first promise. This fireside chat is the honest account of moving out. It covers rebuilding on my stack with Claude Code, switching to Mistral to keep AI processing in Europe, deciding what to rebuild versus keep, and what I would do differently on day one. This is for anyone shipping with AI tools who wants to know what’s really under the hood before their customers find out.</p>"
     },
     {
-      "id": "e78bcf04-4461-4920-9356-346dc74c8798",
-      "title": "ELFA: working on a local-first end-to-end encrypted office workspace",
+      "id": "d7bd7e79-a078-4713-a0dc-2a065e9eaf84",
+      "title": "EU Open Source Strategy: key role of the Open Internet Stack",
       "type": "Talk",
       "date": "2026-12-03",
       "start": "12:15",
@@ -14022,12 +14156,12 @@
       "tracks": [],
       "speakers": [
         {
-          "name": "Niko Bonnieure",
-          "jobtitle": "Co-founder / Lead engineer & President",
-          "company": "SuperStack coalition / NextGraph"
+          "name": "Ragnar Bergstrom",
+          "jobtitle": "Team Leader, Future Internet Unit",
+          "company": "European Commission"
         }
       ],
-      "description": "<p>We are building an end-to-end encrypted collaborative workspace, a suite of apps with productivity tools (text editor, spreadsheet, calendar, contacts, email, tables, forms, etc...) and a private social network. It is based on NextGraph, and it is local-first, which means it also works offline, and it synchronizes, without conflicts, when you have internet again. It is open source of course, and runs on an open platform, a federation that anybody can join, by self-hosting. This suite, called ELFA, is extensible, via an app store. We will dive briefly on what Local-First brings in terms of features, and how it combines with end-to-end-encryption.</p>"
+      "description": "<p>In June 2026, the European Commission released the first ever EU wide Open Source Strategy (OSS), underlining the central role of open source in achieving EU technological sovereignty – defined as its capacity to develop, control and scale the technologies underpinning its economy and society, while remaining open to cooperation. \\n\\nAgainst the backdrop of the EU Tech Sovereignty Package, the Open Source Strategy will be presented and its full lifecycle approach with the ambition to grow the entire EU open source ecosystem: developing and adopting building blocks, scaling European businesses, strengthening stewardship, securing and maintaining critical software, and mobilising public administrations. \\n\\n The Open Internet Stack is a key part of the OSS, aimed at building an open, interoperable, sovereign technology stack—spanning hardware, middleware, connectivity, trust technologies, and decentralised systems.</p>"
     },
     {
       "id": "5bbb65d4-058b-4e52-9203-57bc6c97d0f5",
@@ -14079,6 +14213,29 @@
         }
       ],
       "description": "<p>After the introduction of the Responsible AI Canvas last year, Anna Forlati and Thorsten Jonas now present the updated version that adds a new step to the AI use-case evaluation. Now it is not only possible to identify risks and opportunities for organisations as well as negative and positive impacts for the surrounding ecosystem but afterwards make in depth evaluations of each identified impact by adding a new layer inspired by the double materiality principles. (Note: this is a workshop, it would also be possible to it as a talk)</p>"
+    },
+    {
+      "id": "e78bcf04-4461-4920-9356-346dc74c8798",
+      "title": "ELFA: working on a local-first end-to-end encrypted office workspace",
+      "type": "Talk",
+      "date": "2026-12-03",
+      "start": "12:25",
+      "end": "12:30",
+      "rooms": [
+        "Dattier 3"
+      ],
+      "conferences": [
+        "SUPERstack"
+      ],
+      "tracks": [],
+      "speakers": [
+        {
+          "name": "Niko Bonnieure",
+          "jobtitle": "Co-founder / Lead engineer & President",
+          "company": "SuperStack coalition / NextGraph"
+        }
+      ],
+      "description": "<p>We are building an end-to-end encrypted collaborative workspace, a suite of apps with productivity tools (text editor, spreadsheet, calendar, contacts, email, tables, forms, etc...) and a private social network. It is based on NextGraph, and it is local-first, which means it also works offline, and it synchronizes, without conflicts, when you have internet again. It is open source of course, and runs on an open platform, a federation that anybody can join, by self-hosting. This suite, called ELFA, is extensible, via an app store. We will dive briefly on what Local-First brings in terms of features, and how it combines with end-to-end-encryption.</p>"
     },
     {
       "id": "8d9aa9f7-147b-4545-b6c0-f4bd86116f60",
@@ -14628,7 +14785,7 @@
     },
     {
       "id": "beb25bfa-c9e4-444e-86fa-63a4b7212b85",
-      "title": "Ouverture",
+      "title": "Ouverture, dans la suite de l’Appel de Tours",
       "type": "Opening remarks",
       "date": "2026-12-03",
       "start": "14:00",
@@ -15151,7 +15308,7 @@
     },
     {
       "id": "159b55a6-bd1e-4d84-996d-bd1803855014",
-      "title": "Quand la carte s'arrête",
+      "title": "Table ronde « Et si la prochaine coupure touchait la géostack ? »",
       "type": "Panel discussion",
       "date": "2026-12-03",
       "start": "14:10",
@@ -15168,9 +15325,24 @@
           "name": "Charles-Pierre Astolfi",
           "jobtitle": "DSI",
           "company": "IGN"
+        },
+        {
+          "name": "Constance Nebbula",
+          "jobtitle": "Viceprésidente de la Région Pays de la Loire - Présidente d’Open Data France",
+          "company": ""
+        },
+        {
+          "name": "Lucian Balea",
+          "jobtitle": "Directeur adjoint R&D et Directeur Open Source",
+          "company": "RTE"
+        },
+        {
+          "name": "Bertrand Billoud",
+          "jobtitle": "Responsable plateformes open data et API",
+          "company": "SNCF"
         }
       ],
-      "description": "<p>Un acteur de l'énergie, un acteur de la sécurité et un acteur des territoires racontent les décisions critiques qui reposent sur la carte, et pourquoi construire en commun une géostack européenne.</p>"
+      "description": "<p>5 min pour définir la géostack, 30 min d’échanges sur scène, 15 min avec la salle</p>"
     },
     {
       "id": "95047c26-a1de-4cda-8a1d-01ed029443bb",
@@ -15189,8 +15361,8 @@
       "speakers": [
         {
           "name": "Elena Guz",
-          "jobtitle": "Financial Risk Manager",
-          "company": "Morgan Stanley"
+          "jobtitle": "AI Governance and Risk Transformation Advisor",
+          "company": "Independent"
         }
       ],
       "description": "<p>A risk manager's view on identifying AI risks, setting governance and accountability, and evidencing it to regulators and auditors.</p>"
@@ -15493,6 +15665,31 @@
       "description": ""
     },
     {
+      "id": "99598d6d-81f9-4de3-aab9-a5f4bac3d4f1",
+      "title": "Who Decides What Goes on the Invoice? Billing an API From Its Contract",
+      "type": "Talk",
+      "date": "2026-12-03",
+      "start": "14:30",
+      "end": "14:55",
+      "rooms": [
+        "Aubépine 3"
+      ],
+      "conferences": [
+        "Apidays"
+      ],
+      "tracks": [
+        "Agentic Engineering"
+      ],
+      "speakers": [
+        {
+          "name": "Alexandre Bergere",
+          "jobtitle": "CEO & co-founder",
+          "company": "Kaiten"
+        }
+      ],
+      "description": "<p>Every API product with usage-based pricing ends up with two candidates for the truth: the contract the customer signed, and whatever the payment provider was told. When plans, usage and discounts live in the provider, the invoice is decided by a system that never saw the contract, and reconciliation becomes a monthly chore.</p>\n<p>This talk shows the opposite split, as built in Kaiten, an open source control plane for B2B SaaS. The contract, the entitlements and the usage journal stay in one place, which rates every invoice line in integer minor units with a pure function that reads no clock, so a preview and the real invoice cannot disagree. Stripe receives finished lines and does what it does best: tax, numbering, sending and collection. It holds no product, price or subscription. Its read-back is compared at zero tolerance, and a mismatch voids and recomposes the invoice instead of correcting the source of truth from the provider. With no provider at all, invoices wait in a pull queue that an ERP claims and acknowledges, which works even air-gapped.</p>\n<p>Attendees leave with a reference split for API monetization: which decisions belong to the contract and which to the payment provider, when to hold an invoice instead of sending it, and why a provider is never called inside a database transaction.</p>"
+    },
+    {
       "id": "5e64229b-1aca-4a87-be5e-8986be1d71bc",
       "title": "Your AI Agents Need Adult Supervision: Cloud-Native Patterns for Multi-Agent Systems",
       "type": "Talk",
@@ -15646,7 +15843,7 @@
     },
     {
       "id": "83bccce6-3b67-493f-8e13-64aeea15f000",
-      "title": "Defining controls and policies with CALM",
+      "title": "AI Governance as Code",
       "type": "Talk",
       "date": "2026-12-03",
       "start": "14:40",
@@ -15660,12 +15857,12 @@
       "tracks": [],
       "speakers": [
         {
-          "name": "James Gough",
-          "jobtitle": "Distinguished Engineer",
-          "company": "Morgan Stanley"
+          "name": "Olivier Poupeney",
+          "jobtitle": "Field CTO Linux Foundation",
+          "company": "FINOS"
         }
       ],
-      "description": "<p>Using FINOS CALM to express architecture, controls and policies as code and enforce them across the delivery lifecycle.</p>"
+      "description": ""
     },
     {
       "id": "8cae6038-6ffd-475e-b635-916401c10665",
@@ -15919,8 +16116,8 @@
       "tracks": [],
       "speakers": [
         {
-          "name": "Marvin Wissfeld",
-          "jobtitle": "Software engineer",
+          "name": "Marvin Wißfeld",
+          "jobtitle": "Software Engineer",
           "company": "microG"
         }
       ],
@@ -16049,7 +16246,7 @@
     },
     {
       "id": "cd871310-eae8-4052-a316-cea12c2601e1",
-      "title": "Les verrous à lever, premier retour d'expérience",
+      "title": "Les verrous à lever : où porter l’effort collectif ? Premier retour d’expérience",
       "type": "Talk",
       "date": "2026-12-03",
       "start": "15:05",
@@ -16061,7 +16258,18 @@
         "La République des Cartes"
       ],
       "tracks": [],
-      "speakers": [],
+      "speakers": [
+        {
+          "name": "Frédéric Jacon",
+          "jobtitle": "Chef du département géospatial",
+          "company": "CampToCamp"
+        },
+        {
+          "name": "Vincent Picavet",
+          "jobtitle": "Président",
+          "company": "Oslandia"
+        }
+      ],
       "description": "<p>Celles et ceux qui accompagnent les migrations actuelles témoignent : où l'effort collectif devrait-il porter pour aller plus loin et plus vite ?</p>"
     },
     {
@@ -16474,11 +16682,11 @@
     },
     {
       "id": "5df40896-27f0-4039-a9b6-e6a8a94a9d94",
-      "title": "Les verrous à lever, deuxième retour d'expérience",
+      "title": "Échanges libres et témoignages",
       "type": "Talk",
       "date": "2026-12-03",
       "start": "16:00",
-      "end": "16:30",
+      "end": "16:25",
       "rooms": [
         "Dattier 1"
       ],
@@ -16487,7 +16695,7 @@
       ],
       "tracks": [],
       "speakers": [],
-      "description": "<p>Une interview croisée de deux acteurs de la géostack open source : les difficultés observées, les forces à mutualiser, l'occasion de bâtir une feuille de route partagée.</p>"
+      "description": "<p>Micro ouvert avec la salle</p>"
     },
     {
       "id": "7bc8d7ad-0466-4f25-9edc-c95913f74e8e",
@@ -16653,7 +16861,7 @@
     },
     {
       "id": "3043962b-e0bc-43ba-95b4-06abc05cc3b6",
-      "title": "Bâtir une trajectoire commune",
+      "title": "Et maintenant ?",
       "type": "Talk",
       "date": "2026-12-03",
       "start": "16:30",
@@ -16666,7 +16874,7 @@
       ],
       "tracks": [],
       "speakers": [],
-      "description": "<p>Une discussion avec la salle pour dire comment s'engager et quels chantiers prioriser.</p>"
+      "description": "<p>Prochaines étapes et appel à participer au Jour de la Carte 2027</p>"
     },
     {
       "id": "a0de6dd7-40fa-4d87-802b-9acc80af5da1",
