@@ -19,8 +19,12 @@ def long_date(iso_date):
     return f"{date.fromisoformat(iso_date):%-d %B %Y}"
 
 
-def render_events(events):
-    lines = ["# FOST Paris 2026: Events", "", "All times are local Paris time.", ""]
+def header(title, extracted_at):
+    return [f"# FOST Paris 2026: {title}", "", f"> Last update: {extracted_at}", "", "All times are local Paris time.", ""]
+
+
+def render_events(events, extracted_at):
+    lines = header("Events", extracted_at)
     day = None
     for e in events:
         if e["date"] != day:
@@ -44,8 +48,8 @@ def render_events(events):
     return lines
 
 
-def render_speakers(speakers):
-    lines = ["# FOST Paris 2026: Speakers", "", "All times are local Paris time.", ""]
+def render_speakers(speakers, extracted_at):
+    lines = header("Speakers", extracted_at)
     for s in speakers:
         lines += [f"### {s['name']}", ""]
         if s["jobtitle"]:
@@ -75,8 +79,8 @@ def main():
         if key is None:
             sys.exit(f"{path}: expected a top-level 'events' or 'speakers' key")
         output = path.with_suffix(".md")
-        output.write_text("\n".join(RENDERERS[key](data[key])), encoding="utf-8")
-        print(f"Wrote {len(data[key])} {key} to {output}")
+        output.write_text("\n".join(RENDERERS[key](data[key], data["extracted_at"])), encoding="utf-8")
+        print(f"Created {output} ({len(data[key])} {key})")
 
 
 if __name__ == "__main__":

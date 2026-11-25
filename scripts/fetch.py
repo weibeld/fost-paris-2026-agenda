@@ -135,9 +135,11 @@ def main():
     raw_speakers = sorted(load_speakers(), key=lambda s: squash(s["name"]).casefold())
     speakers = [convert_speaker(s, sessions_by_speaker) for s in raw_speakers]
 
-    write_json(output_dir / "events.json", events, "events")
-    write_json(output_dir / "speakers.json", speakers, "speakers")
-    print(f"Wrote {len(events)} events and {len(speakers)} speakers to {output_dir}")
+    events_path, speakers_path = output_dir / "events.json", output_dir / "speakers.json"
+    write_json(events_path, events, "events")
+    print(f"Created {events_path} ({len(events)} events)")
+    write_json(speakers_path, speakers, "speakers")
+    print(f"Created {speakers_path} ({len(speakers)} speakers)")
 
 
 if __name__ == "__main__":
