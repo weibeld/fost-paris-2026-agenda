@@ -1,4 +1,4 @@
-# FOST Paris 2026: Events
+# FOST Paris 2026: Sessions
 
 > Last update: 2026-11-25T16:22:30+01:00
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch the FOST Paris 2026 programme and write it to events.json and speakers.json.
+"""Fetch the FOST Paris 2026 programme and write it to sessions.json and speakers.json.
 
 The agenda on https://joinfost.io/events/paris is rendered from two iframes served by
 portal.joinfost.io. Both pages embed their data directly in the HTML:
@@ -15,10 +15,10 @@ Changes compared to the source data:
 - fields are renamed: uuid -> id, type_label -> type, places -> rooms, calendars -> conferences,
   tags -> tracks
 - internal fields are dropped: position, new_slot, the IDs of rooms, conferences and tracks,
-  track colours, and speaker photos within events
+  track colours, and speaker photos within sessions
 - the speakers' session lists ("Tue, Dec 1 · 9:00 AM – 9:20 AM" text in the source) are
-  rebuilt from the events data as title, date, start and end
-- events are sorted by start time, speakers by name
+  rebuilt from the sessions data as title, date, start and end
+- sessions are sorted by start time, speakers by name
 
 Usage: python3 scripts/fetch.py [output_dir]
 """
@@ -124,20 +124,20 @@ def main():
     output_dir.mkdir(parents=True, exist_ok=True)
 
     raw_sessions = sorted(load_sessions(), key=lambda s: (s["date_start"], s["date_end"], squash(s["title"])))
-    events = [convert_session(s) for s in raw_sessions]
+    sessions = [convert_session(s) for s in raw_sessions]
 
     sessions_by_speaker = {}
-    for event in events:
-        summary = {key: event[key] for key in ("title", "date", "start", "end")}
-        for speaker in event["speakers"]:
+    for session in sessions:
+        summary = {key: session[key] for key in ("title", "date", "start", "end")}
+        for speaker in session["speakers"]:
             sessions_by_speaker.setdefault(speaker["name"], []).append(summary)
 
     raw_speakers = sorted(load_speakers(), key=lambda s: squash(s["name"]).casefold())
     speakers = [convert_speaker(s, sessions_by_speaker) for s in raw_speakers]
 
-    events_path, speakers_path = output_dir / "events.json", output_dir / "speakers.json"
-    write_json(events_path, events, "events")
-    print(f"Created {events_path} ({len(events)} events)")
+    sessions_path, speakers_path = output_dir / "sessions.json", output_dir / "speakers.json"
+    write_json(sessions_path, sessions, "sessions")
+    print(f"Created {sessions_path} ({len(sessions)} sessions)")
     write_json(speakers_path, speakers, "speakers")
     print(f"Created {speakers_path} ({len(speakers)} speakers)")
 

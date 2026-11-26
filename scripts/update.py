@@ -3,9 +3,9 @@
 
 Runs the following steps in the repository root (independent of the current directory):
 
-1. fetch.py: writes events.json and speakers.json
-2. format.py: writes events.md and speakers.md
-3. sets the "> Last update: ..." line in README.md to the extraction time in events.json
+1. fetch.py: writes sessions.json and speakers.json
+2. format.py: writes sessions.md and speakers.md
+3. sets the "> Last update: ..." line in README.md to the extraction time in sessions.json
 
 Usage: python3 scripts/update.py
 """
@@ -32,7 +32,7 @@ def run(script, *args):
 
 
 def update_readme():
-    extracted_at = json.loads((ROOT / "events.json").read_text(encoding="utf-8"))["extracted_at"]
+    extracted_at = json.loads((ROOT / "sessions.json").read_text(encoding="utf-8"))["extracted_at"]
     readme = README.read_text(encoding="utf-8")
     if not LAST_UPDATE.search(readme):
         sys.exit(f"{README}: no '> Last update: ...' line found")
@@ -43,7 +43,7 @@ def update_readme():
 
 def main():
     run("fetch.py", ".")
-    run("format.py", "events.json", "speakers.json")
+    run("format.py", "sessions.json", "speakers.json")
     update_readme()
 
 

@@ -2,7 +2,7 @@
   "source": "https://joinfost.io/events/paris#agenda",
   "extracted_at": "2026-11-25T16:22:30+01:00",
   "timezone": "Europe/Paris",
-  "events": [
+  "sessions": [
     {
       "id": "7041c63c-4cac-4d74-af77-3da7e090264c",
       "title": "Welcome coffee / Networking / Expo",

@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Render events.json and/or speakers.json (as written by fetch.py) as Markdown.
+"""Render sessions.json and/or speakers.json (as written by fetch.py) as Markdown.
 
-Each input file is written to a Markdown file of the same name next to it (events.json ->
-events.md). The kind of file is detected from its top-level key ("events" or "speakers"), so
+Each input file is written to a Markdown file of the same name next to it (sessions.json ->
+sessions.md). The kind of file is detected from its top-level key ("sessions" or "speakers"), so
 the files can be given in any order, and either one alone. Descriptions and biographies are
 HTML and are passed through unchanged (Markdown allows inline HTML).
 
-Usage: python3 scripts/format.py events.json speakers.json
+Usage: python3 scripts/format.py sessions.json speakers.json
 """
 
 import json
@@ -23,10 +23,10 @@ def header(title, extracted_at):
     return [f"# FOST Paris 2026: {title}", "", f"> Last update: {extracted_at}", "", "All times are local Paris time.", ""]
 
 
-def render_events(events, extracted_at):
-    lines = header("Events", extracted_at)
+def render_sessions(sessions, extracted_at):
+    lines = header("Sessions", extracted_at)
     day = None
-    for e in events:
+    for e in sessions:
         if e["date"] != day:
             day = e["date"]
             lines += [f"## {long_date(day)}", ""]
@@ -66,18 +66,18 @@ def render_speakers(speakers, extracted_at):
     return lines
 
 
-RENDERERS = {"events": render_events, "speakers": render_speakers}
+RENDERERS = {"sessions": render_sessions, "speakers": render_speakers}
 
 
 def main():
     if len(sys.argv) < 2:
-        sys.exit("Usage: python3 scripts/format.py <events.json> <speakers.json>")
+        sys.exit("Usage: python3 scripts/format.py <sessions.json> <speakers.json>")
     for arg in sys.argv[1:]:
         path = Path(arg)
         data = json.loads(path.read_text(encoding="utf-8"))
         key = next((k for k in RENDERERS if k in data), None)
         if key is None:
-            sys.exit(f"{path}: expected a top-level 'events' or 'speakers' key")
+            sys.exit(f"{path}: expected a top-level 'sessions' or 'speakers' key")
         output = path.with_suffix(".md")
         output.write_text("\n".join(RENDERERS[key](data[key], data["extracted_at"])), encoding="utf-8")
         print(f"Created {output} ({len(data[key])} {key})")
