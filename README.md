@@ -1,6 +1,6 @@
 # FOST Paris 2026 Agenda Data
 
-Extract of the full list of sessions and speakers of [FOST Paris 2026](https://joinfost.io/events/paris#agenda) (1-3 December 2026) as JSON and Markdown files.
+Copy of the full list of sessions and speakers of [FOST Paris 2026](https://joinfost.io/events/paris#agenda) (1-3 December 2026) as JSON and Markdown files.
 
 > **Last update:** 2026-11-26T02:13:34+01:00
 
