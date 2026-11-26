@@ -1,6 +1,6 @@
 {
   "source": "https://joinfost.io/events/paris#agenda",
-  "extracted_at": "2026-11-25T16:22:30+01:00",
+  "extracted_at": "2026-11-26T02:13:34+01:00",
   "timezone": "Europe/Paris",
   "sessions": [
     {
@@ -203,7 +203,7 @@
     },
     {
       "id": "0944ba57-9a5a-4b39-95a2-b85e21ce9371",
-      "title": "TBA",
+      "title": "Open Weights, Open Proofs: Learning How Machines Learn Mathematics",
       "type": "Keynote",
       "date": "2026-12-01",
       "start": "09:20",
@@ -224,7 +224,7 @@
           "company": "University Oxford"
         }
       ],
-      "description": ""
+      "description": "<p>Mathematics is undergoing a profound transformation.\nCommercial AI systems are now proving long-standing conjectures and making real progress on problems as central as the Riemann hypothesis.\nYet a more basic question has gone largely unasked: which machine-learning structures make it possible to learn mathematics at\nall? That question can only be answered in a fully open setting, where both the training data and the model checkpoints can be inspected. To make headway towards an answer, Simon Frieder presents FM-Pochi-32B, from the Fields Model Initiative. It is the first LLM that is both fully open and able to solve IMO-level problems, and it earned a bronze-medal score at IMO 2026. Pochi-32B is more than a benchmark result: it is a platform for understanding how machines learn mathematics. Looking ahead, Frieder will argue that once LLMs capable of frontier mathematics become widely accessible, the nature of proof itself will change and makes new organizational structure for mathematics necessary.</p>"
     },
     {
       "id": "40b4db54-d10b-4160-aa47-266100db5795",
@@ -1081,6 +1081,31 @@
       "description": "<p>Panoramax is an open-source software stack to create street-level imagery open alternatives. Launched in 2022 by the French mapping agency (IGN) and OpenStreetMap France, it is built and maintained by a community of public entities, companies and various other contributors and now gathers over 120 million photos released under open data licenses, with a decentralized architecture allowing anyone to host an instance and join the federation. Computer vision plays a dual role here. First, as a safeguard: each photo passes through an AI-based blurring pipeline, anonymizing faces, license plates and ensuring GDPR/CNIL compliance without gatekeeping contribution. Second, as a value multiplier: the standardized (STAC) dataset is used to train and run models for tasks like road and urban furniture inventory, building diagnosis, etc. turning a commons into reusable data as detections can be shared through the semantic tagging system. Some datasets and models (e.g. road-sign detection) are published on Hugging Face. There is also potential to improve the pictures (e.g. horizontal alignment correction) and the available data represent a gold mine for the research community. This talk will show how Panoramax embodies commons governance (federation over centralization, community, open licensing) while illustrating concrete opportunities: privacy-preserving AI as an enabler of openness and derived AI use-cases as a way to sustain and multiply the value created by contributors.</p>"
     },
     {
+      "id": "168f1745-52c2-450c-9bdc-01ec18327809",
+      "title": "AI Edge for the AI Age: Streaming Data for Robots and Drones",
+      "type": "Talk",
+      "date": "2026-12-01",
+      "start": "11:30",
+      "end": "11:55",
+      "rooms": [
+        "Baobab 3"
+      ],
+      "conferences": [
+        "GenerationAI"
+      ],
+      "tracks": [
+        "Physical AI, Network and Robotics"
+      ],
+      "speakers": [
+        {
+          "name": "Jean-Baptiste Kempf",
+          "jobtitle": "President, VideoLAN / CEO",
+          "company": "Kyber / Tech Fellow Scaleway"
+        }
+      ],
+      "description": ""
+    },
+    {
       "id": "3e759e71-c41c-49b5-b118-97219fb72a87",
       "title": "AI as editor, not author: Keeping content standards consistent across hundreds of pages",
       "type": "Talk",
@@ -1230,29 +1255,6 @@
           "name": "Victor Schmidt",
           "jobtitle": "CTO",
           "company": "Entalpic"
-        }
-      ],
-      "description": ""
-    },
-    {
-      "id": "4620a17f-769b-4285-9a34-01132a059aef",
-      "title": "The end of the fog of AI: And the opportunity to reinvent the productivity suite in a post-agentic era",
-      "type": "Talk",
-      "date": "2026-12-01",
-      "start": "11:30",
-      "end": "11:55",
-      "rooms": [
-        "Baobab 3"
-      ],
-      "conferences": [],
-      "tracks": [
-        "AI Agents in Production"
-      ],
-      "speakers": [
-        {
-          "name": "Stanislas Polu",
-          "jobtitle": "Co-founder & CTO",
-          "company": "Dust"
         }
       ],
       "description": ""
@@ -3756,31 +3758,6 @@
         }
       ],
       "description": "<p>The Clinical Practice Research Datalink (CPRD) provisions anonymized clinical data to research institutes and companies worldwide via its electronic Research Application Portal. Because of the sensitive nature of primary care data and linked datasets, every research application undergoes a rigorous, multi-stage review process involving administrative screening, Information Governance, lay reviewers, and subject-matter experts.</p>\n<p>This case study explores how we integrated a standalone &quot;&quot;AI Reviewer Service&quot;&quot; into the  Drupal portal to augment this highly complex, human-in-the-loop workflow.</p>\n<p>By building an API-first bridge between our Drupal platform and an Node.js AI service powered by the AI SDK, we created an intelligent assistant capable of validating incoming research applications. The AI evaluates applications against strict domain constraints.</p>\n<p>In this session, we will share the practical reality of making open-source AI integration work in a highly regulated environment. We will cover:</p>\n<p>APIs for AI : How we structured and served complex Drupal application data (including multi-study licenses, dataset requests, and protocol details) to an external AI agent.</p>\n<p>Human-in-the-Loop Workflows : The UX of integrating AI inside the CMS so that it assists, rather than replaces, the human review hierarchy.</p>\n<p>Structuring Domain Knowledge : Techniques for grounding the LLM in complex business logic, such as CPRD's strict rules around data usage, datasets.</p>\n<p>Governance &amp; Trust : How we ensure AI-assisted outputs remain transparent and trustworthy in the context of healthcare data provisioning.</p>"
-    },
-    {
-      "id": "168f1745-52c2-450c-9bdc-01ec18327809",
-      "title": "AI Edge for the AI Age: Streaming Data for Robots and Drones",
-      "type": "Talk",
-      "date": "2026-12-01",
-      "start": "15:30",
-      "end": "15:55",
-      "rooms": [
-        "Baobab 3"
-      ],
-      "conferences": [
-        "GenerationAI"
-      ],
-      "tracks": [
-        "Physical AI, Network and Robotics"
-      ],
-      "speakers": [
-        {
-          "name": "Jean-Baptiste Kempf",
-          "jobtitle": "President, VideoLAN / CEO",
-          "company": "Kyber / Tech Fellow Scaleway"
-        }
-      ],
-      "description": ""
     },
     {
       "id": "ad7c5f4d-c023-43e4-970a-e55f23788b9d",
@@ -7443,6 +7420,31 @@
       "description": ""
     },
     {
+      "id": "518f562e-d698-4134-b34b-3fe857fc655e",
+      "title": "How engineers can make AI more sustainable",
+      "type": "Talk",
+      "date": "2026-12-02",
+      "start": "14:00",
+      "end": "14:25",
+      "rooms": [
+        "Acacia 3"
+      ],
+      "conferences": [
+        "GenerationAI"
+      ],
+      "tracks": [
+        "AI Infrastructure: Routing, Control & Security"
+      ],
+      "speakers": [
+        {
+          "name": "Boris Gamazaychikov",
+          "jobtitle": "Co-Founder and CEO",
+          "company": "Sustainable AI Group (SAIG)"
+        }
+      ],
+      "description": ""
+    },
+    {
       "id": "5160adc0-345a-4bf1-9a2d-fe0252ce8c1b",
       "title": "Is Your Platform Ready for AI? The Case for Platform Engineering 2.0",
       "type": "Talk",
@@ -7494,31 +7496,6 @@
         }
       ],
       "description": "<p>The adoption of AI and agents promises an efficiency revolution, but it raises a major challenge: how do we transition from an isolated prototype to a secure, industrial-grade platform? Without a control layer, opening LLMs to the information system exposes the enterprise to security risks, cost overruns, and non-compliance.</p>\n<p>In this talk, GroupBees shares its vision and expertise on the architecture of agentic platforms and the emergence of AI Gateways as a core pillar of AI-driven architectures.</p>\n<p>Agenda:</p>\n<p>Genesis of AI Gateways: From API Management to the AI Gateway</p>\n<p>Governance &amp; Security: The AI Gateway as a &quot;firewall&quot; (granular authentication, content filtering, prompt injection prevention)</p>\n<p>Operational Control: Quotas, rate limiting, and traceability to manage costs and automated decisions</p>\n<p>Lessons Learned &amp; Vision: Key success factors observed with our clients for deploying AI with total security</p>\n<p>Target Audience: CTOs, Architects, Product Owners, and Technical Leaders looking to transform the excitement around AI into a stable, governed production platform.</p>"
-    },
-    {
-      "id": "518f562e-d698-4134-b34b-3fe857fc655e",
-      "title": "TBA",
-      "type": "Talk",
-      "date": "2026-12-02",
-      "start": "14:00",
-      "end": "14:25",
-      "rooms": [
-        "Acacia 3"
-      ],
-      "conferences": [
-        "GenerationAI"
-      ],
-      "tracks": [
-        "AI Infrastructure: Routing, Control & Security"
-      ],
-      "speakers": [
-        {
-          "name": "Boris Gamazaychikov",
-          "jobtitle": "Co-Founder and CEO",
-          "company": "Sustainable AI Group (SAIG)"
-        }
-      ],
-      "description": ""
     },
     {
       "id": "9afc5278-4689-4a34-aef7-7422e8f1a3f9",
@@ -15328,7 +15305,7 @@
         },
         {
           "name": "Constance Nebbula",
-          "jobtitle": "Viceprésidente de la Région Pays de la Loire - Présidente d’Open Data France",
+          "jobtitle": "Vice présidente de la Région Pays de la Loire - Présidente d’Open Data France",
           "company": ""
         },
         {

@@ -1,6 +1,6 @@
 # FOST Paris 2026: Speakers
 
-> Last update: 2026-11-25T16:22:30+01:00
+> Last update: 2026-11-26T02:13:34+01:00
 
 All times are local Paris time.
 
@@ -971,7 +971,7 @@ Bilal Idiri is AI Engineering Manager and Tech Lead at AG2R La Mondiale, the Fre
 - Company: Sustainable AI Group (SAIG)
 - Sessions:
   - Frugal by Design: How Wiley measures and manages the impact of their AI products (2 December 2026, 12:10–12:35)
-  - TBA (2 December 2026, 14:00–14:25)
+  - How engineers can make AI more sustainable (2 December 2026, 14:00–14:25)
 
 Boris Gamazaychikov, Sustainable AI Group Co-Founder and CEO, has led AI sustainability at Salesforce and co-created the AI Energy Score.
 
@@ -1322,7 +1322,7 @@ Constance Lavergne is an expert in information security and digital trust who he
 
 ### Constance Nebbula
 
-- Job title: Viceprésidente de la Région Pays de la Loire - Présidente d’Open Data France
+- Job title: Vice présidente de la Région Pays de la Loire - Présidente d’Open Data France
 - Sessions:
   - Table ronde « Et si la prochaine coupure touchait la géostack ? » (3 December 2026, 14:10–15:05)
 
@@ -2866,8 +2866,8 @@ I have been thanked for my work around automation of processes allowing the comp
 - Job title: President, VideoLAN / CEO
 - Company: Kyber / Tech Fellow Scaleway
 - Sessions:
+  - AI Edge for the AI Age: Streaming Data for Robots and Drones (1 December 2026, 11:30–11:55)
   - Secure Low-Latency Video & C2 (1 December 2026, 15:20–15:40)
-  - AI Edge for the AI Age: Streaming Data for Robots and Drones (1 December 2026, 15:30–15:55)
 
 Technology and Free Software enthusiast with a wide scientific background.
 I am an entrepreneur, a CTO, Tech advisor, Startups board member and President of an Open Source NGO, working on VLC & FFmpeg.
@@ -5495,7 +5495,7 @@ Simon has been an active member of the Drupal community since 2007. Before joini
 - Job title: Researcher
 - Company: University Oxford
 - Sessions:
-  - TBA (1 December 2026, 09:20–09:40)
+  - Open Weights, Open Proofs: Learning How Machines Learn Mathematics (1 December 2026, 09:20–09:40)
 
 ### Simon Schrottner
 
@@ -5578,13 +5578,6 @@ Stani joined the DC industry in 2020 as sustainability researcher examining the 
 - Company: Theodo
 - Sessions:
   - Anthropomorphism is an API: designing the human interface of AI agents (2 December 2026, 17:00–17:25)
-
-### Stanislas Polu
-
-- Job title: Co-founder & CTO
-- Company: Dust
-- Sessions:
-  - The end of the fog of AI: And the opportunity to reinvent the productivity suite in a post-agentic era (1 December 2026, 11:30–11:55)
 
 ### Steeve Morin
 

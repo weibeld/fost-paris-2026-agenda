@@ -1,6 +1,6 @@
 # FOST Paris 2026: Sessions
 
-> Last update: 2026-11-25T16:22:30+01:00
+> Last update: 2026-11-26T02:13:34+01:00
 
 All times are local Paris time.
 
@@ -100,7 +100,7 @@ Understanding of how to participate in the day</p>
 - Type: Panel discussion
 - Speakers: Florian Caringi, Elise Saverese, Alexis Guionin, Juliette Baudry, Aurélien Barthe, Antoine Carette
 
-### TBA
+### Open Weights, Open Proofs: Learning How Machines Learn Mathematics
 
 - Date: 1 December 2026
 - Time: 09:20–09:40
@@ -109,6 +109,11 @@ Understanding of how to participate in the day</p>
 - Track: Keynotes
 - Type: Keynote
 - Speakers: Simon Frieder
+
+<p>Mathematics is undergoing a profound transformation.
+Commercial AI systems are now proving long-standing conjectures and making real progress on problems as central as the Riemann hypothesis.
+Yet a more basic question has gone largely unasked: which machine-learning structures make it possible to learn mathematics at
+all? That question can only be answered in a fully open setting, where both the training data and the model checkpoints can be inspected. To make headway towards an answer, Simon Frieder presents FM-Pochi-32B, from the Fields Model Initiative. It is the first LLM that is both fully open and able to solve IMO-level problems, and it earned a bronze-medal score at IMO 2026. Pochi-32B is more than a benchmark result: it is a platform for understanding how machines learn mathematics. Looking ahead, Frieder will argue that once LLMs capable of frontier mathematics become widely accessible, the nature of proof itself will change and makes new organizational structure for mathematics necessary.</p>
 
 ### Decoding the Language of Life: When Natural Language Meets DNA
 
@@ -498,6 +503,16 @@ Questions worth taking forward</p>
 
 <p>Panoramax is an open-source software stack to create street-level imagery open alternatives. Launched in 2022 by the French mapping agency (IGN) and OpenStreetMap France, it is built and maintained by a community of public entities, companies and various other contributors and now gathers over 120 million photos released under open data licenses, with a decentralized architecture allowing anyone to host an instance and join the federation. Computer vision plays a dual role here. First, as a safeguard: each photo passes through an AI-based blurring pipeline, anonymizing faces, license plates and ensuring GDPR/CNIL compliance without gatekeeping contribution. Second, as a value multiplier: the standardized (STAC) dataset is used to train and run models for tasks like road and urban furniture inventory, building diagnosis, etc. turning a commons into reusable data as detections can be shared through the semantic tagging system. Some datasets and models (e.g. road-sign detection) are published on Hugging Face. There is also potential to improve the pictures (e.g. horizontal alignment correction) and the available data represent a gold mine for the research community. This talk will show how Panoramax embodies commons governance (federation over centralization, community, open licensing) while illustrating concrete opportunities: privacy-preserving AI as an enabler of openness and derived AI use-cases as a way to sustain and multiply the value created by contributors.</p>
 
+### AI Edge for the AI Age: Streaming Data for Robots and Drones
+
+- Date: 1 December 2026
+- Time: 11:30–11:55
+- Room: Baobab 3
+- Conference: GenerationAI
+- Track: Physical AI, Network and Robotics
+- Type: Talk
+- Speakers: Jean-Baptiste Kempf
+
 ### AI as editor, not author: Keeping content standards consistent across hundreds of pages
 
 - Date: 1 December 2026
@@ -568,15 +583,6 @@ Questions worth taking forward</p>
 - Track: AI for Deeptechs
 - Type: Talk
 - Speakers: Victor Schmidt
-
-### The end of the fog of AI: And the opportunity to reinvent the productivity suite in a post-agentic era
-
-- Date: 1 December 2026
-- Time: 11:30–11:55
-- Room: Baobab 3
-- Track: AI Agents in Production
-- Type: Talk
-- Speakers: Stanislas Polu
 
 ### The future of robotics: from lab to real work
 
@@ -1737,16 +1743,6 @@ You will leave with real orders of magnitude, the trade-offs we made, and the pr
 <p>Human-in-the-Loop Workflows : The UX of integrating AI inside the CMS so that it assists, rather than replaces, the human review hierarchy.</p>
 <p>Structuring Domain Knowledge : Techniques for grounding the LLM in complex business logic, such as CPRD's strict rules around data usage, datasets.</p>
 <p>Governance &amp; Trust : How we ensure AI-assisted outputs remain transparent and trustworthy in the context of healthcare data provisioning.</p>
-
-### AI Edge for the AI Age: Streaming Data for Robots and Drones
-
-- Date: 1 December 2026
-- Time: 15:30–15:55
-- Room: Baobab 3
-- Conference: GenerationAI
-- Track: Physical AI, Network and Robotics
-- Type: Talk
-- Speakers: Jean-Baptiste Kempf
 
 ### Arazzo: Turning Business Workflows into Agent Capabilities via MCP and Beyond
 
@@ -3347,6 +3343,16 @@ From events to data products. Because every event has a well-defined contract, t
 - Type: Talk
 - Speakers: Ryan Lahfa
 
+### How engineers can make AI more sustainable
+
+- Date: 2 December 2026
+- Time: 14:00–14:25
+- Room: Acacia 3
+- Conference: GenerationAI
+- Track: AI Infrastructure: Routing, Control & Security
+- Type: Talk
+- Speakers: Boris Gamazaychikov
+
 ### Is Your Platform Ready for AI? The Case for Platform Engineering 2.0
 
 - Date: 2 December 2026
@@ -3378,16 +3384,6 @@ From events to data products. Because every event has a well-defined contract, t
 <p>Operational Control: Quotas, rate limiting, and traceability to manage costs and automated decisions</p>
 <p>Lessons Learned &amp; Vision: Key success factors observed with our clients for deploying AI with total security</p>
 <p>Target Audience: CTOs, Architects, Product Owners, and Technical Leaders looking to transform the excitement around AI into a stable, governed production platform.</p>
-
-### TBA
-
-- Date: 2 December 2026
-- Time: 14:00–14:25
-- Room: Acacia 3
-- Conference: GenerationAI
-- Track: AI Infrastructure: Routing, Control & Security
-- Type: Talk
-- Speakers: Boris Gamazaychikov
 
 ### TBA
 

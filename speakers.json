@@ -1,6 +1,6 @@
 {
   "source": "https://joinfost.io/events/paris#agenda",
-  "extracted_at": "2026-11-25T16:22:30+01:00",
+  "extracted_at": "2026-11-26T02:13:34+01:00",
   "timezone": "Europe/Paris",
   "speakers": [
     {
@@ -1785,7 +1785,7 @@
       "jobtitle": "Responsable plateformes open data et API",
       "company": "SNCF",
       "bio": "",
-      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6873/conversions/5ef63259-4298-416c-a56d-c00d24c1a51d-square.jpg",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6884/conversions/5ef63259-4298-416c-a56d-c00d24c1a51d-square.jpg",
       "sessions": [
         {
           "title": "Table ronde « Et si la prochaine coupure touchait la géostack ? »",
@@ -1854,7 +1854,7 @@
           "end": "12:35"
         },
         {
-          "title": "TBA",
+          "title": "How engineers can make AI more sustainable",
           "date": "2026-12-02",
           "start": "14:00",
           "end": "14:25"
@@ -2550,10 +2550,10 @@
     },
     {
       "name": "Constance Nebbula",
-      "jobtitle": "Viceprésidente de la Région Pays de la Loire - Présidente d’Open Data France",
+      "jobtitle": "Vice présidente de la Région Pays de la Loire - Présidente d’Open Data France",
       "company": "",
       "bio": "",
-      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6871/conversions/91573ecc-2404-42db-8e7c-08a2b741efa4-square.jpg",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6880/conversions/91573ecc-2404-42db-8e7c-08a2b741efa4-square.jpg",
       "sessions": [
         {
           "title": "Table ronde « Et si la prochaine coupure touchait la géostack ? »",
@@ -4174,7 +4174,7 @@
       "jobtitle": "Chef du département géospatial",
       "company": "CampToCamp",
       "bio": "",
-      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6875/conversions/d0cc2b23-aa83-488c-a147-c876ee164ee2-square.jpg",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6882/conversions/d0cc2b23-aa83-488c-a147-c876ee164ee2-square.jpg",
       "sessions": [
         {
           "title": "Les verrous à lever : où porter l’effort collectif ? Premier retour d’expérience",
@@ -5418,16 +5418,16 @@
       "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/2900/conversions/bd1b2bcf-c383-4afd-b629-98d31850c864-square.jpg",
       "sessions": [
         {
+          "title": "AI Edge for the AI Age: Streaming Data for Robots and Drones",
+          "date": "2026-12-01",
+          "start": "11:30",
+          "end": "11:55"
+        },
+        {
           "title": "Secure Low-Latency Video & C2",
           "date": "2026-12-01",
           "start": "15:20",
           "end": "15:40"
-        },
-        {
-          "title": "AI Edge for the AI Age: Streaming Data for Robots and Drones",
-          "date": "2026-12-01",
-          "start": "15:30",
-          "end": "15:55"
         }
       ]
     },
@@ -6599,7 +6599,7 @@
       "jobtitle": "Green IT Manager",
       "company": "Worldline",
       "bio": "Sustainability advocate at Worldline, driving eco-design for digital services to cut environmental impact.",
-      "avatar": "https://secure.gravatar.com/avatar/0ac4e16c52665b6c2f9facb69f63fc1f27f7a89aedf8f728dff3fcf95696c475.jpg?s=120&d=mp&r=g",
+      "avatar": "https://secure.gravatar.com/avatar/ef68099b6739b85aa858c77fd16f0c5547ec0679c46462e9dc274f936e215417.jpg?s=120&d=mp&r=g",
       "sessions": [
         {
           "title": "Building the essential, efficiently: Eco-Design redefines our Digital Services",
@@ -7034,7 +7034,7 @@
       "jobtitle": "Directeur adjoint R&D et Directeur Open Source",
       "company": "RTE",
       "bio": "",
-      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6872/conversions/f81052f9-6e50-4295-8957-4994b2674256-square.jpg",
+      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6881/conversions/f81052f9-6e50-4295-8957-4994b2674256-square.jpg",
       "sessions": [
         {
           "title": "Table ronde « Et si la prochaine coupure touchait la géostack ? »",
@@ -10424,7 +10424,7 @@
       "avatar": "https://secure.gravatar.com/avatar/153efc7e21b8d4f79f118492c4db1abb4d28a2e1c09d1213fec89d05476d0d24.jpg?s=120&d=mp&r=g",
       "sessions": [
         {
-          "title": "TBA",
+          "title": "Open Weights, Open Proofs: Learning How Machines Learn Mathematics",
           "date": "2026-12-01",
           "start": "09:20",
           "end": "09:40"
@@ -10569,21 +10569,6 @@
           "date": "2026-12-02",
           "start": "17:00",
           "end": "17:25"
-        }
-      ]
-    },
-    {
-      "name": "Stanislas Polu",
-      "jobtitle": "Co-founder & CTO",
-      "company": "Dust",
-      "bio": "",
-      "avatar": "https://apidays.s3.fr-par.scw.cloud/medias/6297/conversions/c394e217-72b8-4b12-a092-bf453ad9760e-square.jpg",
-      "sessions": [
-        {
-          "title": "The end of the fog of AI: And the opportunity to reinvent the productivity suite in a post-agentic era",
-          "date": "2026-12-01",
-          "start": "11:30",
-          "end": "11:55"
         }
       ]
     },
